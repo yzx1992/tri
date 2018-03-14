@@ -1,0 +1,1261 @@
+I tensorflow/stream_executor/dso_loader.cc:105] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:105] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:105] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:105] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:105] successfully opened CUDA library libcurand.so locally
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:04:00.0
+Total memory: 11.17GiB
+Free memory: 10.92GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 1 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:05:00.0
+Total memory: 11.17GiB
+Free memory: 589.00MiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 2 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:83:00.0
+Total memory: 11.17GiB
+Free memory: 287.25MiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 3 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:84:00.0
+Total memory: 11.17GiB
+Free memory: 467.50MiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 4 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:89:00.0
+Total memory: 11.17GiB
+Free memory: 9.88GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 5 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:8a:00.0
+Total memory: 11.17GiB
+Free memory: 2.86GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 6 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:8d:00.0
+Total memory: 11.17GiB
+Free memory: 10.92GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 7 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:8e:00.0
+Total memory: 11.17GiB
+Free memory: 10.92GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 0 to device ordinal 2
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 0 to device ordinal 3
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 0 to device ordinal 4
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 0 to device ordinal 5
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 0 to device ordinal 6
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 0 to device ordinal 7
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 1 to device ordinal 2
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 1 to device ordinal 3
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 1 to device ordinal 4
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 1 to device ordinal 5
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 1 to device ordinal 6
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 1 to device ordinal 7
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 2 to device ordinal 0
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 2 to device ordinal 1
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 3 to device ordinal 0
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 3 to device ordinal 1
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 4 to device ordinal 0
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 4 to device ordinal 1
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 5 to device ordinal 0
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 5 to device ordinal 1
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 6 to device ordinal 0
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 6 to device ordinal 1
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 7 to device ordinal 0
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 7 to device ordinal 1
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:126] DMA: 0 1 2 3 4 5 6 7 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 0:   Y Y N N N N N N 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 1:   Y Y N N N N N N 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 2:   N N Y Y Y Y Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 3:   N N Y Y Y Y Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 4:   N N Y Y Y Y Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 5:   N N Y Y Y Y Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 6:   N N Y Y Y Y Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 7:   N N Y Y Y Y Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:04:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:1) -> (device: 1, name: Tesla K80, pci bus id: 0000:05:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:2) -> (device: 2, name: Tesla K80, pci bus id: 0000:83:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:3) -> (device: 3, name: Tesla K80, pci bus id: 0000:84:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:4) -> (device: 4, name: Tesla K80, pci bus id: 0000:89:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:5) -> (device: 5, name: Tesla K80, pci bus id: 0000:8a:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:6) -> (device: 6, name: Tesla K80, pci bus id: 0000:8d:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:7) -> (device: 7, name: Tesla K80, pci bus id: 0000:8e:00.0)
+40
+9
+error:321655
+1
+error:346591
+2
+word_index_dict_size:596828
+
+load word_index time consumption: 1.03297615051 second(s)
+
+ok
+596828 Tensor("CNN_0/Gather:0", shape=(256, 40), dtype=int32, device=/device:GPU:6)
+-----
+Tensor("CNN_0/embedding/embedding_lookup:0", shape=(256, 40, 128), dtype=float32, device=/device:CPU:0)
+-------
+Tensor("CNN_0/embedding/ExpandDims:0", shape=(256, 40, 128, 1), dtype=float32, device=/device:GPU:6)
+----------
+Tensor("CNN_0/conv-maxpool-2/conv:0", shape=(256, 39, 1, 128), dtype=float32, device=/device:GPU:6)
+-----------------
+Tensor("CNN_0/conv-maxpool-2/pool:0", shape=(256, 1, 1, 128), dtype=float32, device=/device:GPU:6)
+----------
+Tensor("CNN_0/conv-maxpool-3/conv:0", shape=(256, 38, 1, 128), dtype=float32, device=/device:GPU:6)
+-----------------
+Tensor("CNN_0/conv-maxpool-3/pool:0", shape=(256, 1, 1, 128), dtype=float32, device=/device:GPU:6)
+----------
+Tensor("CNN_0/conv-maxpool-4/conv:0", shape=(256, 37, 1, 128), dtype=float32, device=/device:GPU:6)
+-----------------
+Tensor("CNN_0/conv-maxpool-4/pool:0", shape=(256, 1, 1, 128), dtype=float32, device=/device:GPU:6)
+----------
+Tensor("CNN_0/conv-maxpool-5/conv:0", shape=(256, 36, 1, 128), dtype=float32, device=/device:GPU:6)
+-----------------
+Tensor("CNN_0/conv-maxpool-5/pool:0", shape=(256, 1, 1, 128), dtype=float32, device=/device:GPU:6)
+combine
+[<tf.Tensor 'CNN_0/conv-maxpool-2/pool:0' shape=(256, 1, 1, 128) dtype=float32>, <tf.Tensor 'CNN_0/conv-maxpool-3/pool:0' shape=(256, 1, 1, 128) dtype=float32>, <tf.Tensor 'CNN_0/conv-maxpool-4/pool:0' shape=(256, 1, 1, 128) dtype=float32>, <tf.Tensor 'CNN_0/conv-maxpool-5/pool:0' shape=(256, 1, 1, 128) dtype=float32>]
+1111
+---
+Tensor("CNN_0/combine/concat:0", shape=(256, 1, 1, 512), dtype=float32, device=/device:GPU:6)
+222
+Tensor("CNN_0/combine/encode:0", shape=(256, 512), dtype=float32, device=/device:GPU:6)
+h_drop
+(256, 512)
+scores shape
+Tensor("CNN_0/output/scores:0", shape=(256, 9), dtype=float32, device=/device:GPU:6)
+ok
+596828 Tensor("dev_x:0", shape=(?, 40), dtype=int32, device=/device:CPU:0)
+-----
+Tensor("embedding/embedding_lookup:0", shape=(?, 40, 128), dtype=float32, device=/device:CPU:0)
+-------
+Tensor("embedding/ExpandDims:0", shape=(?, 40, 128, 1), dtype=float32, device=/device:CPU:0)
+----------
+Tensor("conv-maxpool-2/conv:0", shape=(?, 39, 1, 128), dtype=float32, device=/device:CPU:0)
+-----------------
+Tensor("conv-maxpool-2/pool:0", shape=(?, 1, 1, 128), dtype=float32, device=/device:CPU:0)
+----------
+Tensor("conv-maxpool-3/conv:0", shape=(?, 38, 1, 128), dtype=float32, device=/device:CPU:0)
+-----------------
+Tensor("conv-maxpool-3/pool:0", shape=(?, 1, 1, 128), dtype=float32, device=/device:CPU:0)
+----------
+Tensor("conv-maxpool-4/conv:0", shape=(?, 37, 1, 128), dtype=float32, device=/device:CPU:0)
+-----------------
+Tensor("conv-maxpool-4/pool:0", shape=(?, 1, 1, 128), dtype=float32, device=/device:CPU:0)
+----------
+Tensor("conv-maxpool-5/conv:0", shape=(?, 36, 1, 128), dtype=float32, device=/device:CPU:0)
+-----------------
+Tensor("conv-maxpool-5/pool:0", shape=(?, 1, 1, 128), dtype=float32, device=/device:CPU:0)
+combine
+[<tf.Tensor 'conv-maxpool-2/pool:0' shape=(?, 1, 1, 128) dtype=float32>, <tf.Tensor 'conv-maxpool-3/pool:0' shape=(?, 1, 1, 128) dtype=float32>, <tf.Tensor 'conv-maxpool-4/pool:0' shape=(?, 1, 1, 128) dtype=float32>, <tf.Tensor 'conv-maxpool-5/pool:0' shape=(?, 1, 1, 128) dtype=float32>]
+1111
+---
+Tensor("combine/concat:0", shape=(?, 1, 1, 512), dtype=float32, device=/device:CPU:0)
+222
+Tensor("combine/encode:0", shape=(?, 512), dtype=float32, device=/device:CPU:0)
+h_drop
+(?, 512)
+scores shape
+Tensor("output/scores:0", shape=(?, 9), dtype=float32, device=/device:CPU:0)
+Writing to /mnt/workspace/yezhenxu/model/term_model/len40
+
+Train Summaries
+Dev summaries
+2017-07-12T08:26:39.101247: step 1.0, loss 9.25254, acc 0.0585938
+2017-07-12T08:26:39.398150: step 2.0, loss 7.52334, acc 0.0859375
+2017-07-12T08:26:39.673058: step 3.0, loss 6.75304, acc 0.117188
+2017-07-12T08:26:39.958754: step 4.0, loss 7.41807, acc 0.113281
+2017-07-12T08:26:40.211797: step 5.0, loss 6.42869, acc 0.113281
+2017-07-12T08:26:40.464711: step 6.0, loss 6.05924, acc 0.128906
+2017-07-12T08:26:40.764307: step 7.0, loss 6.90975, acc 0.109375
+2017-07-12T08:26:41.050636: step 8.0, loss 6.5792, acc 0.105469
+2017-07-12T08:26:41.325024: step 9.0, loss 6.4124, acc 0.128906
+2017-07-12T08:26:41.586200: step 10.0, loss 5.69665, acc 0.160156
+2017-07-12T08:26:41.853185: step 11.0, loss 6.74972, acc 0.125
+2017-07-12T08:26:42.156047: step 12.0, loss 5.76027, acc 0.144531
+2017-07-12T08:26:42.424780: step 13.0, loss 5.93097, acc 0.125
+2017-07-12T08:26:42.681073: step 14.0, loss 5.907, acc 0.121094
+2017-07-12T08:26:42.992787: step 15.0, loss 5.2308, acc 0.1875
+2017-07-12T08:26:43.254365: step 16.0, loss 5.62468, acc 0.175781
+2017-07-12T08:26:43.528054: step 17.0, loss 5.43843, acc 0.152344
+2017-07-12T08:26:43.793562: step 18.0, loss 5.33774, acc 0.171875
+2017-07-12T08:26:44.157700: step 19.0, loss 5.15184, acc 0.214844
+2017-07-12T08:26:44.430769: step 20.0, loss 5.25387, acc 0.207031
+2017-07-12T08:26:44.699008: step 21.0, loss 5.06155, acc 0.183594
+2017-07-12T08:26:44.966135: step 22.0, loss 4.91578, acc 0.175781
+2017-07-12T08:26:45.237611: step 23.0, loss 5.17268, acc 0.179688
+2017-07-12T08:26:45.510324: step 24.0, loss 5.32244, acc 0.1875
+2017-07-12T08:26:45.769720: step 25.0, loss 5.6132, acc 0.132812
+2017-07-12T08:26:46.040350: step 26.0, loss 5.34642, acc 0.152344
+2017-07-12T08:26:46.308788: step 27.0, loss 5.6616, acc 0.15625
+2017-07-12T08:26:46.574219: step 28.0, loss 5.11785, acc 0.1875
+2017-07-12T08:26:46.838519: step 29.0, loss 4.79663, acc 0.214844
+2017-07-12T08:26:47.106931: step 30.0, loss 5.19319, acc 0.203125
+2017-07-12T08:26:47.411498: step 31.0, loss 4.97614, acc 0.191406
+2017-07-12T08:26:47.666411: step 32.0, loss 4.80687, acc 0.171875
+2017-07-12T08:26:47.915906: step 33.0, loss 5.51301, acc 0.164062
+2017-07-12T08:26:48.178746: step 34.0, loss 4.51341, acc 0.191406
+2017-07-12T08:26:48.449781: step 35.0, loss 4.68288, acc 0.230469
+2017-07-12T08:26:48.709113: step 36.0, loss 4.78945, acc 0.242188
+2017-07-12T08:26:48.969435: step 37.0, loss 4.93918, acc 0.222656
+2017-07-12T08:26:49.208780: step 38.0, loss 4.90695, acc 0.1875
+2017-07-12T08:26:49.456703: step 39.0, loss 4.48828, acc 0.214844
+2017-07-12T08:26:49.690799: step 40.0, loss 4.46652, acc 0.203125
+2017-07-12T08:26:49.958985: step 41.0, loss 4.5844, acc 0.195312
+2017-07-12T08:26:50.198393: step 42.0, loss 4.41592, acc 0.210938
+2017-07-12T08:26:50.448169: step 43.0, loss 4.54076, acc 0.15625
+2017-07-12T08:26:50.820039: step 44.0, loss 4.70682, acc 0.191406
+2017-07-12T08:26:51.093487: step 45.0, loss 5.02462, acc 0.199219
+2017-07-12T08:26:51.348230: step 46.0, loss 4.74527, acc 0.164062
+2017-07-12T08:26:51.678598: step 47.0, loss 4.6303, acc 0.183594
+2017-07-12T08:26:51.926818: step 48.0, loss 4.77215, acc 0.183594
+2017-07-12T08:26:52.172195: step 49.0, loss 4.58861, acc 0.144531
+2017-07-12T08:26:52.452052: step 50.0, loss 4.96942, acc 0.152344
+2017-07-12T08:26:52.700556: step 51.0, loss 4.44252, acc 0.226562
+2017-07-12T08:26:52.976002: step 52.0, loss 4.43602, acc 0.242188
+2017-07-12T08:26:53.225207: step 53.0, loss 4.73328, acc 0.144531
+2017-07-12T08:26:53.473197: step 54.0, loss 4.7831, acc 0.164062
+2017-07-12T08:26:53.725748: step 55.0, loss 4.53428, acc 0.207031
+2017-07-12T08:26:53.976570: step 56.0, loss 4.41148, acc 0.214844
+2017-07-12T08:26:54.257012: step 57.0, loss 4.36937, acc 0.214844
+2017-07-12T08:26:54.531596: step 58.0, loss 4.3176, acc 0.203125
+2017-07-12T08:26:54.802747: step 59.0, loss 4.15837, acc 0.25
+2017-07-12T08:26:55.058428: step 60.0, loss 4.20043, acc 0.214844
+2017-07-12T08:26:55.322206: step 61.0, loss 3.94943, acc 0.222656
+2017-07-12T08:26:55.585553: step 62.0, loss 4.54214, acc 0.1875
+2017-07-12T08:26:55.841358: step 63.0, loss 4.0711, acc 0.195312
+2017-07-12T08:26:56.070064: step 64.0, loss 4.51351, acc 0.199219
+2017-07-12T08:26:56.313387: step 65.0, loss 4.28531, acc 0.234375
+2017-07-12T08:26:56.570493: step 66.0, loss 4.68069, acc 0.167969
+2017-07-12T08:26:56.818545: step 67.0, loss 4.30551, acc 0.171875
+2017-07-12T08:26:57.094218: step 68.0, loss 4.50856, acc 0.21875
+2017-07-12T08:26:57.391171: step 69.0, loss 4.11673, acc 0.25
+2017-07-12T08:26:57.643001: step 70.0, loss 4.2927, acc 0.226562
+2017-07-12T08:26:57.909117: step 71.0, loss 4.29898, acc 0.226562
+2017-07-12T08:26:58.217857: step 72.0, loss 4.04906, acc 0.203125
+2017-07-12T08:26:58.472153: step 73.0, loss 3.94483, acc 0.253906
+2017-07-12T08:26:58.736249: step 74.0, loss 4.23911, acc 0.242188
+2017-07-12T08:26:58.993422: step 75.0, loss 3.98356, acc 0.230469
+2017-07-12T08:26:59.240068: step 76.0, loss 3.96536, acc 0.25
+2017-07-12T08:26:59.505740: step 77.0, loss 3.90094, acc 0.164062
+2017-07-12T08:26:59.773225: step 78.0, loss 4.20365, acc 0.234375
+2017-07-12T08:27:00.030343: step 79.0, loss 3.8319, acc 0.230469
+2017-07-12T08:27:00.301537: step 80.0, loss 3.81066, acc 0.226562
+2017-07-12T08:27:00.561051: step 81.0, loss 3.86991, acc 0.246094
+2017-07-12T08:27:00.835392: step 82.0, loss 3.89726, acc 0.207031
+2017-07-12T08:27:01.097638: step 83.0, loss 3.92584, acc 0.21875
+2017-07-12T08:27:01.355752: step 84.0, loss 3.90336, acc 0.261719
+2017-07-12T08:27:01.626191: step 85.0, loss 4.00102, acc 0.183594
+2017-07-12T08:27:01.906422: step 86.0, loss 3.87547, acc 0.253906
+2017-07-12T08:27:02.165793: step 87.0, loss 4.19946, acc 0.257812
+2017-07-12T08:27:02.438132: step 88.0, loss 4.07138, acc 0.191406
+2017-07-12T08:27:02.684961: step 89.0, loss 4.43954, acc 0.183594
+2017-07-12T08:27:02.934875: step 90.0, loss 4.02658, acc 0.253906
+2017-07-12T08:27:03.199939: step 91.0, loss 3.88664, acc 0.230469
+2017-07-12T08:27:03.469867: step 92.0, loss 4.05649, acc 0.203125
+2017-07-12T08:27:03.725504: step 93.0, loss 3.97144, acc 0.238281
+2017-07-12T08:27:04.096331: step 94.0, loss 3.83207, acc 0.238281
+2017-07-12T08:27:04.359229: step 95.0, loss 3.95988, acc 0.226562
+2017-07-12T08:27:04.644539: step 96.0, loss 3.6646, acc 0.269531
+2017-07-12T08:27:04.904210: step 97.0, loss 3.70347, acc 0.289062
+2017-07-12T08:27:05.178146: step 98.0, loss 3.72948, acc 0.21875
+2017-07-12T08:27:05.449552: step 99.0, loss 4.00902, acc 0.257812
+2017-07-12T08:27:05.735894: step 100.0, loss 3.8645, acc 0.234375
+2017-07-12T08:27:05.993143: step 101.0, loss 3.58516, acc 0.265625
+2017-07-12T08:27:06.243046: step 102.0, loss 3.57765, acc 0.265625
+2017-07-12T08:27:06.501997: step 103.0, loss 3.92093, acc 0.222656
+2017-07-12T08:27:06.759967: step 104.0, loss 3.60605, acc 0.265625
+2017-07-12T08:27:07.037383: step 105.0, loss 3.42942, acc 0.25
+2017-07-12T08:27:07.295856: step 106.0, loss 3.82959, acc 0.214844
+2017-07-12T08:27:07.568386: step 107.0, loss 3.77917, acc 0.191406
+2017-07-12T08:27:07.824008: step 108.0, loss 3.61051, acc 0.234375
+2017-07-12T08:27:08.079422: step 109.0, loss 3.98398, acc 0.261719
+2017-07-12T08:27:08.337177: step 110.0, loss 3.55669, acc 0.242188
+2017-07-12T08:27:08.596142: step 111.0, loss 3.71467, acc 0.253906
+2017-07-12T08:27:08.861046: step 112.0, loss 3.59736, acc 0.222656
+2017-07-12T08:27:09.120209: step 113.0, loss 3.68838, acc 0.25
+2017-07-12T08:27:09.401132: step 114.0, loss 3.89257, acc 0.214844
+2017-07-12T08:27:09.652810: step 115.0, loss 3.43531, acc 0.257812
+2017-07-12T08:27:09.896423: step 116.0, loss 4.04714, acc 0.222656
+2017-07-12T08:27:10.178744: step 117.0, loss 3.27361, acc 0.234375
+2017-07-12T08:27:10.436031: step 118.0, loss 3.44095, acc 0.3125
+2017-07-12T08:27:10.714572: step 119.0, loss 3.58853, acc 0.265625
+2017-07-12T08:27:10.950090: step 120.0, loss 3.35834, acc 0.257812
+2017-07-12T08:27:11.236936: step 121.0, loss 3.89164, acc 0.214844
+2017-07-12T08:27:11.524751: step 122.0, loss 3.66426, acc 0.234375
+2017-07-12T08:27:11.814628: step 123.0, loss 3.6535, acc 0.234375
+2017-07-12T08:27:12.081615: step 124.0, loss 3.6398, acc 0.222656
+2017-07-12T08:27:12.359777: step 125.0, loss 3.39225, acc 0.265625
+2017-07-12T08:27:12.620597: step 126.0, loss 3.61816, acc 0.277344
+2017-07-12T08:27:12.898080: step 127.0, loss 3.30669, acc 0.242188
+2017-07-12T08:27:13.156224: step 128.0, loss 3.44073, acc 0.265625
+2017-07-12T08:27:13.426514: step 129.0, loss 3.34292, acc 0.261719
+2017-07-12T08:27:13.697766: step 130.0, loss 3.62238, acc 0.253906
+2017-07-12T08:27:13.961663: step 131.0, loss 3.42182, acc 0.238281
+2017-07-12T08:27:14.226217: step 132.0, loss 3.6324, acc 0.242188
+2017-07-12T08:27:14.494558: step 133.0, loss 3.65232, acc 0.210938
+2017-07-12T08:27:14.748288: step 134.0, loss 3.30968, acc 0.289062
+2017-07-12T08:27:15.013516: step 135.0, loss 3.427, acc 0.234375
+2017-07-12T08:27:15.261584: step 136.0, loss 3.07651, acc 0.285156
+2017-07-12T08:27:15.527794: step 137.0, loss 3.44725, acc 0.257812
+2017-07-12T08:27:15.787537: step 138.0, loss 3.30952, acc 0.25
+2017-07-12T08:27:16.066382: step 139.0, loss 3.49784, acc 0.25
+2017-07-12T08:27:16.331524: step 140.0, loss 3.30343, acc 0.25
+2017-07-12T08:27:16.585263: step 141.0, loss 3.1707, acc 0.289062
+2017-07-12T08:27:16.834777: step 142.0, loss 3.19199, acc 0.257812
+2017-07-12T08:27:17.096826: step 143.0, loss 3.37323, acc 0.308594
+2017-07-12T08:27:17.424300: step 144.0, loss 3.25313, acc 0.289062
+2017-07-12T08:27:17.682567: step 145.0, loss 3.41823, acc 0.246094
+2017-07-12T08:27:17.928569: step 146.0, loss 2.94529, acc 0.304688
+2017-07-12T08:27:18.227419: step 147.0, loss 3.45519, acc 0.277344
+2017-07-12T08:27:18.492500: step 148.0, loss 3.33685, acc 0.296875
+2017-07-12T08:27:18.771188: step 149.0, loss 3.13015, acc 0.28125
+2017-07-12T08:27:19.054889: step 150.0, loss 3.29412, acc 0.292969
+2017-07-12T08:27:19.306807: step 151.0, loss 3.19223, acc 0.332031
+2017-07-12T08:27:19.581265: step 152.0, loss 3.12383, acc 0.285156
+2017-07-12T08:27:19.833596: step 153.0, loss 3.5763, acc 0.234375
+2017-07-12T08:27:20.117202: step 154.0, loss 3.4343, acc 0.28125
+2017-07-12T08:27:20.379803: step 155.0, loss 3.2745, acc 0.285156
+2017-07-12T08:27:20.651788: step 156.0, loss 3.42791, acc 0.285156
+2017-07-12T08:27:20.920326: step 157.0, loss 3.0729, acc 0.273438
+2017-07-12T08:27:21.164060: step 158.0, loss 3.35002, acc 0.25
+2017-07-12T08:27:21.397785: step 159.0, loss 3.05106, acc 0.261719
+2017-07-12T08:27:21.670466: step 160.0, loss 3.03019, acc 0.277344
+2017-07-12T08:27:21.916039: step 161.0, loss 2.96633, acc 0.316406
+2017-07-12T08:27:22.167890: step 162.0, loss 3.09336, acc 0.257812
+2017-07-12T08:27:22.425283: step 163.0, loss 3.28823, acc 0.273438
+2017-07-12T08:27:22.675528: step 164.0, loss 2.92072, acc 0.3125
+2017-07-12T08:27:22.923547: step 165.0, loss 2.94628, acc 0.304688
+2017-07-12T08:27:23.190568: step 166.0, loss 3.12488, acc 0.265625
+2017-07-12T08:27:23.449855: step 167.0, loss 3.22586, acc 0.261719
+2017-07-12T08:27:23.711444: step 168.0, loss 2.99441, acc 0.273438
+2017-07-12T08:27:23.971665: step 169.0, loss 3.02591, acc 0.3125
+2017-07-12T08:27:24.264338: step 170.0, loss 2.89357, acc 0.332031
+2017-07-12T08:27:24.535971: step 171.0, loss 2.86122, acc 0.324219
+2017-07-12T08:27:24.812129: step 172.0, loss 3.02064, acc 0.328125
+2017-07-12T08:27:25.089853: step 173.0, loss 3.18858, acc 0.269531
+2017-07-12T08:27:25.344581: step 174.0, loss 2.8155, acc 0.292969
+2017-07-12T08:27:25.611351: step 175.0, loss 2.88898, acc 0.285156
+2017-07-12T08:27:25.938054: step 176.0, loss 2.96254, acc 0.296875
+2017-07-12T08:27:26.212205: step 177.0, loss 3.18925, acc 0.285156
+2017-07-12T08:27:26.501235: step 178.0, loss 2.80619, acc 0.300781
+2017-07-12T08:27:26.777315: step 179.0, loss 3.08794, acc 0.324219
+2017-07-12T08:27:27.051802: step 180.0, loss 3.24338, acc 0.25
+2017-07-12T08:27:27.315587: step 181.0, loss 3.13407, acc 0.253906
+2017-07-12T08:27:27.585000: step 182.0, loss 2.88134, acc 0.261719
+2017-07-12T08:27:27.823050: step 183.0, loss 2.88153, acc 0.273438
+2017-07-12T08:27:28.087022: step 184.0, loss 3.05353, acc 0.292969
+2017-07-12T08:27:28.350235: step 185.0, loss 2.81156, acc 0.339844
+2017-07-12T08:27:28.624922: step 186.0, loss 2.93597, acc 0.289062
+2017-07-12T08:27:28.903901: step 187.0, loss 3.07774, acc 0.261719
+2017-07-12T08:27:29.175522: step 188.0, loss 2.90395, acc 0.3125
+2017-07-12T08:27:29.443764: step 189.0, loss 2.80362, acc 0.308594
+2017-07-12T08:27:29.709193: step 190.0, loss 3.15772, acc 0.273438
+2017-07-12T08:27:30.036901: step 191.0, loss 2.87322, acc 0.324219
+2017-07-12T08:27:30.314029: step 192.0, loss 3.1148, acc 0.265625
+2017-07-12T08:27:30.577467: step 193.0, loss 2.82515, acc 0.316406
+2017-07-12T08:27:30.855598: step 194.0, loss 2.87288, acc 0.304688
+2017-07-12T08:27:31.100647: step 195.0, loss 2.77568, acc 0.285156
+2017-07-12T08:27:31.365804: step 196.0, loss 2.78212, acc 0.335938
+2017-07-12T08:27:31.641446: step 197.0, loss 2.71561, acc 0.339844
+2017-07-12T08:27:31.901484: step 198.0, loss 2.56728, acc 0.316406
+2017-07-12T08:27:32.250642: step 199.0, loss 2.91349, acc 0.292969
+2017-07-12T08:27:32.516730: step 200.0, loss 2.77557, acc 0.3125
+2017-07-12T08:27:32.782956: step 201.0, loss 2.56465, acc 0.351562
+2017-07-12T08:27:33.061831: step 202.0, loss 2.66558, acc 0.335938
+2017-07-12T08:27:33.330384: step 203.0, loss 2.81104, acc 0.324219
+2017-07-12T08:27:33.591834: step 204.0, loss 2.70462, acc 0.347656
+2017-07-12T08:27:33.855653: step 205.0, loss 2.55584, acc 0.332031
+2017-07-12T08:27:34.121664: step 206.0, loss 2.73544, acc 0.304688
+2017-07-12T08:27:34.381462: step 207.0, loss 2.81824, acc 0.28125
+2017-07-12T08:27:34.644755: step 208.0, loss 2.88189, acc 0.269531
+2017-07-12T08:27:34.922765: step 209.0, loss 2.67027, acc 0.316406
+2017-07-12T08:27:35.170384: step 210.0, loss 2.46277, acc 0.347656
+2017-07-12T08:27:35.429189: step 211.0, loss 2.55844, acc 0.363281
+2017-07-12T08:27:35.678556: step 212.0, loss 2.80118, acc 0.324219
+2017-07-12T08:27:35.932483: step 213.0, loss 2.84555, acc 0.320312
+2017-07-12T08:27:36.191622: step 214.0, loss 2.6331, acc 0.335938
+2017-07-12T08:27:36.459621: step 215.0, loss 2.93793, acc 0.292969
+2017-07-12T08:27:36.875594: step 216.0, loss 2.92523, acc 0.3125
+2017-07-12T08:27:37.115454: step 217.0, loss 2.58969, acc 0.351562
+2017-07-12T08:27:37.400690: step 218.0, loss 2.64888, acc 0.320312
+2017-07-12T08:27:37.649687: step 219.0, loss 2.49156, acc 0.371094
+2017-07-12T08:27:37.912486: step 220.0, loss 2.47014, acc 0.351562
+2017-07-12T08:27:38.199770: step 221.0, loss 2.67592, acc 0.292969
+2017-07-12T08:27:38.468566: step 222.0, loss 2.69694, acc 0.269531
+2017-07-12T08:27:38.730778: step 223.0, loss 2.78889, acc 0.300781
+2017-07-12T08:27:39.147413: step 224.0, loss 2.77922, acc 0.289062
+2017-07-12T08:27:39.396212: step 225.0, loss 2.77633, acc 0.265625
+2017-07-12T08:27:39.642077: step 226.0, loss 2.75193, acc 0.292969
+2017-07-12T08:27:39.885452: step 227.0, loss 2.6184, acc 0.320312
+2017-07-12T08:27:40.138632: step 228.0, loss 2.61055, acc 0.320312
+2017-07-12T08:27:40.427935: step 229.0, loss 2.73809, acc 0.285156
+2017-07-12T08:27:40.706802: step 230.0, loss 2.76454, acc 0.332031
+2017-07-12T08:27:40.962771: step 231.0, loss 2.64151, acc 0.324219
+2017-07-12T08:27:41.221945: step 232.0, loss 2.58961, acc 0.332031
+2017-07-12T08:27:41.480567: step 233.0, loss 2.81141, acc 0.292969
+2017-07-12T08:27:41.759723: step 234.0, loss 2.71306, acc 0.3125
+2017-07-12T08:27:42.019748: step 235.0, loss 2.6051, acc 0.351562
+2017-07-12T08:27:42.287172: step 236.0, loss 2.64604, acc 0.304688
+2017-07-12T08:27:42.548124: step 237.0, loss 2.691, acc 0.269531
+2017-07-12T08:27:42.805743: step 238.0, loss 2.65645, acc 0.289062
+2017-07-12T08:27:43.068929: step 239.0, loss 2.44667, acc 0.339844
+2017-07-12T08:27:43.324900: step 240.0, loss 2.38333, acc 0.351562
+2017-07-12T08:27:43.582173: step 241.0, loss 2.44307, acc 0.335938
+2017-07-12T08:27:43.840801: step 242.0, loss 2.58274, acc 0.292969
+2017-07-12T08:27:44.093140: step 243.0, loss 2.36188, acc 0.34375
+2017-07-12T08:27:44.359012: step 244.0, loss 2.30393, acc 0.378906
+2017-07-12T08:27:44.659110: step 245.0, loss 2.66801, acc 0.320312
+2017-07-12T08:27:44.934932: step 246.0, loss 2.64853, acc 0.3125
+2017-07-12T08:27:45.261041: step 247.0, loss 2.50092, acc 0.351562
+2017-07-12T08:27:45.509070: step 248.0, loss 2.42481, acc 0.34375
+2017-07-12T08:27:45.782530: step 249.0, loss 2.3494, acc 0.332031
+2017-07-12T08:27:46.085783: step 250.0, loss 2.50586, acc 0.371094
+2017-07-12T08:27:46.341904: step 251.0, loss 2.55336, acc 0.328125
+2017-07-12T08:27:46.613641: step 252.0, loss 2.38381, acc 0.34375
+2017-07-12T08:27:46.876811: step 253.0, loss 2.46034, acc 0.347656
+2017-07-12T08:27:47.121373: step 254.0, loss 2.83502, acc 0.304688
+2017-07-12T08:27:47.401551: step 255.0, loss 2.67984, acc 0.28125
+2017-07-12T08:27:47.654517: step 256.0, loss 2.76866, acc 0.300781
+2017-07-12T08:27:47.909702: step 257.0, loss 2.35787, acc 0.332031
+2017-07-12T08:27:48.157298: step 258.0, loss 2.57858, acc 0.316406
+2017-07-12T08:27:48.403438: step 259.0, loss 2.55203, acc 0.300781
+2017-07-12T08:27:48.650830: step 260.0, loss 2.44446, acc 0.339844
+2017-07-12T08:27:48.902086: step 261.0, loss 2.60375, acc 0.34375
+2017-07-12T08:27:49.149789: step 262.0, loss 2.24244, acc 0.347656
+2017-07-12T08:27:49.431135: step 263.0, loss 2.24954, acc 0.351562
+2017-07-12T08:27:49.684614: step 264.0, loss 2.50789, acc 0.351562
+2017-07-12T08:27:49.943772: step 265.0, loss 2.42278, acc 0.367188
+2017-07-12T08:27:50.178875: step 266.0, loss 2.29447, acc 0.363281
+2017-07-12T08:27:50.458141: step 267.0, loss 2.55817, acc 0.308594
+2017-07-12T08:27:50.705014: step 268.0, loss 2.5008, acc 0.296875
+2017-07-12T08:27:50.959881: step 269.0, loss 2.22378, acc 0.386719
+2017-07-12T08:27:51.221607: step 270.0, loss 2.52346, acc 0.296875
+2017-07-12T08:27:51.466274: step 271.0, loss 2.38776, acc 0.335938
+2017-07-12T08:27:51.774766: step 272.0, loss 2.25931, acc 0.34375
+2017-07-12T08:27:52.019518: step 273.0, loss 2.4393, acc 0.308594
+2017-07-12T08:27:52.251849: step 274.0, loss 2.28575, acc 0.378906
+2017-07-12T08:27:52.523011: step 275.0, loss 2.36258, acc 0.371094
+2017-07-12T08:27:52.791009: step 276.0, loss 2.33709, acc 0.371094
+2017-07-12T08:27:53.036125: step 277.0, loss 2.25679, acc 0.359375
+2017-07-12T08:27:53.285632: step 278.0, loss 2.32367, acc 0.355469
+2017-07-12T08:27:53.556002: step 279.0, loss 2.30051, acc 0.335938
+2017-07-12T08:27:53.810465: step 280.0, loss 2.37389, acc 0.339844
+2017-07-12T08:27:54.061903: step 281.0, loss 2.32357, acc 0.371094
+2017-07-12T08:27:54.312024: step 282.0, loss 2.40855, acc 0.347656
+2017-07-12T08:27:54.566186: step 283.0, loss 2.40532, acc 0.328125
+2017-07-12T08:27:54.820372: step 284.0, loss 2.26092, acc 0.347656
+2017-07-12T08:27:55.072970: step 285.0, loss 2.46507, acc 0.34375
+2017-07-12T08:27:55.333833: step 286.0, loss 2.4283, acc 0.34375
+2017-07-12T08:27:55.578682: step 287.0, loss 2.37544, acc 0.371094
+2017-07-12T08:27:55.820917: step 288.0, loss 2.02886, acc 0.417969
+2017-07-12T08:27:56.069339: step 289.0, loss 2.31801, acc 0.363281
+2017-07-12T08:27:56.312624: step 290.0, loss 2.25893, acc 0.34375
+2017-07-12T08:27:56.548900: step 291.0, loss 2.29121, acc 0.394531
+2017-07-12T08:27:56.799227: step 292.0, loss 2.16624, acc 0.367188
+2017-07-12T08:27:57.138215: step 293.0, loss 2.46295, acc 0.296875
+2017-07-12T08:27:57.395444: step 294.0, loss 2.27545, acc 0.410156
+2017-07-12T08:27:57.732374: step 295.0, loss 2.39872, acc 0.34375
+2017-07-12T08:27:57.992458: step 296.0, loss 2.26562, acc 0.339844
+2017-07-12T08:27:58.261437: step 297.0, loss 2.27293, acc 0.347656
+2017-07-12T08:27:58.564179: step 298.0, loss 2.30209, acc 0.355469
+2017-07-12T08:27:58.808171: step 299.0, loss 2.34843, acc 0.351562
+2017-07-12T08:27:59.057541: step 300.0, loss 2.45301, acc 0.339844
+2017-07-12T08:27:59.302357: step 301.0, loss 2.13569, acc 0.417969
+2017-07-12T08:27:59.550366: step 302.0, loss 2.16381, acc 0.375
+2017-07-12T08:27:59.833472: step 303.0, loss 2.2608, acc 0.398438
+2017-07-12T08:28:00.079930: step 304.0, loss 2.26803, acc 0.339844
+2017-07-12T08:28:00.331432: step 305.0, loss 1.93395, acc 0.417969
+2017-07-12T08:28:00.583150: step 306.0, loss 2.27755, acc 0.371094
+2017-07-12T08:28:00.840098: step 307.0, loss 2.1947, acc 0.371094
+2017-07-12T08:28:01.095570: step 308.0, loss 2.09837, acc 0.390625
+2017-07-12T08:28:01.348734: step 309.0, loss 2.47815, acc 0.304688
+2017-07-12T08:28:01.592714: step 310.0, loss 2.06816, acc 0.394531
+2017-07-12T08:28:01.832789: step 311.0, loss 2.27406, acc 0.351562
+2017-07-12T08:28:02.083673: step 312.0, loss 2.0821, acc 0.363281
+2017-07-12T08:28:02.348283: step 313.0, loss 2.16088, acc 0.367188
+2017-07-12T08:28:02.585586: step 314.0, loss 2.38806, acc 0.355469
+2017-07-12T08:28:02.858084: step 315.0, loss 2.22385, acc 0.347656
+2017-07-12T08:28:03.115220: step 316.0, loss 2.04354, acc 0.375
+2017-07-12T08:28:03.414726: step 317.0, loss 2.21043, acc 0.363281
+2017-07-12T08:28:03.662143: step 318.0, loss 2.06827, acc 0.378906
+2017-07-12T08:28:03.915965: step 319.0, loss 2.13431, acc 0.375
+2017-07-12T08:28:04.182915: step 320.0, loss 2.07819, acc 0.386719
+2017-07-12T08:28:04.430369: step 321.0, loss 2.21015, acc 0.390625
+2017-07-12T08:28:04.679795: step 322.0, loss 2.0275, acc 0.390625
+2017-07-12T08:28:04.920727: step 323.0, loss 2.1546, acc 0.332031
+2017-07-12T08:28:05.155422: step 324.0, loss 2.1027, acc 0.382812
+2017-07-12T08:28:05.488493: step 325.0, loss 2.04775, acc 0.390625
+2017-07-12T08:28:05.712052: step 326.0, loss 2.22102, acc 0.355469
+2017-07-12T08:28:05.946371: step 327.0, loss 2.3518, acc 0.328125
+2017-07-12T08:28:06.205665: step 328.0, loss 2.02152, acc 0.386719
+2017-07-12T08:28:06.448649: step 329.0, loss 2.00424, acc 0.421875
+2017-07-12T08:28:06.696454: step 330.0, loss 2.07601, acc 0.355469
+2017-07-12T08:28:06.947657: step 331.0, loss 1.88708, acc 0.425781
+2017-07-12T08:28:07.217923: step 332.0, loss 2.04949, acc 0.398438
+2017-07-12T08:28:07.457893: step 333.0, loss 2.06791, acc 0.40625
+2017-07-12T08:28:07.710210: step 334.0, loss 2.1829, acc 0.367188
+2017-07-12T08:28:07.934292: step 335.0, loss 1.95891, acc 0.363281
+2017-07-12T08:28:08.183383: step 336.0, loss 2.16191, acc 0.347656
+2017-07-12T08:28:08.453256: step 337.0, loss 2.11122, acc 0.40625
+2017-07-12T08:28:08.715629: step 338.0, loss 2.04737, acc 0.371094
+2017-07-12T08:28:08.961396: step 339.0, loss 1.80576, acc 0.433594
+2017-07-12T08:28:09.215264: step 340.0, loss 2.0477, acc 0.386719
+2017-07-12T08:28:09.469424: step 341.0, loss 2.03995, acc 0.410156
+2017-07-12T08:28:09.724205: step 342.0, loss 2.12138, acc 0.394531
+2017-07-12T08:28:09.974833: step 343.0, loss 1.98579, acc 0.40625
+2017-07-12T08:28:10.220924: step 344.0, loss 2.00156, acc 0.359375
+2017-07-12T08:28:10.470637: step 345.0, loss 1.95578, acc 0.421875
+2017-07-12T08:28:10.728298: step 346.0, loss 2.20991, acc 0.359375
+2017-07-12T08:28:11.086981: step 347.0, loss 1.91043, acc 0.449219
+2017-07-12T08:28:11.330490: step 348.0, loss 1.87551, acc 0.480469
+2017-07-12T08:28:11.573277: step 349.0, loss 2.43903, acc 0.34375
+2017-07-12T08:28:11.804432: step 350.0, loss 1.99454, acc 0.429688
+2017-07-12T08:28:12.045501: step 351.0, loss 2.073, acc 0.367188
+2017-07-12T08:28:12.292853: step 352.0, loss 1.95274, acc 0.375
+2017-07-12T08:28:12.555040: step 353.0, loss 1.95129, acc 0.414062
+2017-07-12T08:28:12.828634: step 354.0, loss 1.96575, acc 0.390625
+2017-07-12T08:28:13.112278: step 355.0, loss 2.30032, acc 0.335938
+2017-07-12T08:28:13.352163: step 356.0, loss 1.91218, acc 0.394531
+2017-07-12T08:28:13.611629: step 357.0, loss 2.16559, acc 0.347656
+2017-07-12T08:28:13.858415: step 358.0, loss 2.04064, acc 0.410156
+2017-07-12T08:28:14.103722: step 359.0, loss 1.91961, acc 0.417969
+2017-07-12T08:28:14.348192: step 360.0, loss 2.16787, acc 0.34375
+2017-07-12T08:28:14.612902: step 361.0, loss 2.02859, acc 0.394531
+2017-07-12T08:28:14.865983: step 362.0, loss 1.91858, acc 0.414062
+2017-07-12T08:28:15.108271: step 363.0, loss 1.80887, acc 0.417969
+2017-07-12T08:28:15.363769: step 364.0, loss 2.24201, acc 0.375
+2017-07-12T08:28:15.601918: step 365.0, loss 2.22816, acc 0.367188
+2017-07-12T08:28:15.846007: step 366.0, loss 1.91899, acc 0.398438
+2017-07-12T08:28:16.073992: step 367.0, loss 1.7979, acc 0.4375
+2017-07-12T08:28:16.325223: step 368.0, loss 2.02301, acc 0.363281
+2017-07-12T08:28:16.584380: step 369.0, loss 2.15663, acc 0.367188
+2017-07-12T08:28:16.841226: step 370.0, loss 1.79439, acc 0.449219
+2017-07-12T08:28:17.102480: step 371.0, loss 1.97329, acc 0.375
+2017-07-12T08:28:17.352737: step 372.0, loss 2.07828, acc 0.386719
+2017-07-12T08:28:17.593153: step 373.0, loss 1.93479, acc 0.417969
+2017-07-12T08:28:17.827469: step 374.0, loss 2.06667, acc 0.378906
+2017-07-12T08:28:18.078803: step 375.0, loss 1.96382, acc 0.390625
+2017-07-12T08:28:18.325714: step 376.0, loss 1.98319, acc 0.429688
+2017-07-12T08:28:18.582371: step 377.0, loss 1.92696, acc 0.386719
+2017-07-12T08:28:18.841513: step 378.0, loss 1.87012, acc 0.410156
+2017-07-12T08:28:19.135803: step 379.0, loss 2.00189, acc 0.347656
+2017-07-12T08:28:19.352092: step 380.0, loss 1.85985, acc 0.425781
+2017-07-12T08:28:19.600240: step 381.0, loss 2.00639, acc 0.421875
+2017-07-12T08:28:19.841746: step 382.0, loss 1.90222, acc 0.433594
+2017-07-12T08:28:20.088206: step 383.0, loss 1.9472, acc 0.417969
+2017-07-12T08:28:20.329414: step 384.0, loss 1.85162, acc 0.398438
+2017-07-12T08:28:20.581649: step 385.0, loss 2.13529, acc 0.40625
+2017-07-12T08:28:20.829812: step 386.0, loss 1.95483, acc 0.351562
+2017-07-12T08:28:21.068694: step 387.0, loss 2.03315, acc 0.375
+2017-07-12T08:28:21.302673: step 388.0, loss 1.77062, acc 0.457031
+2017-07-12T08:28:21.548086: step 389.0, loss 2.04671, acc 0.382812
+2017-07-12T08:28:21.800063: step 390.0, loss 1.96805, acc 0.382812
+2017-07-12T08:28:22.045024: step 391.0, loss 2.06888, acc 0.347656
+2017-07-12T08:28:22.290613: step 392.0, loss 2.02112, acc 0.386719
+2017-07-12T08:28:22.546117: step 393.0, loss 1.8568, acc 0.425781
+2017-07-12T08:28:22.803363: step 394.0, loss 1.9835, acc 0.382812
+2017-07-12T08:28:23.076321: step 395.0, loss 1.77122, acc 0.4375
+2017-07-12T08:28:23.322607: step 396.0, loss 2.01604, acc 0.378906
+2017-07-12T08:28:23.579967: step 397.0, loss 1.85413, acc 0.402344
+2017-07-12T08:28:23.817175: step 398.0, loss 1.97561, acc 0.390625
+2017-07-12T08:28:24.056894: step 399.0, loss 1.70045, acc 0.472656
+2017-07-12T08:28:24.310019: step 400.0, loss 1.87957, acc 0.417969
+2017-07-12T08:28:24.566340: step 401.0, loss 1.96343, acc 0.414062
+2017-07-12T08:28:24.774775: step 402.0, loss 1.8569, acc 0.425781
+2017-07-12T08:28:25.028162: step 403.0, loss 2.01424, acc 0.375
+2017-07-12T08:28:25.274890: step 404.0, loss 1.83522, acc 0.457031
+2017-07-12T08:28:25.513872: step 405.0, loss 1.90122, acc 0.390625
+2017-07-12T08:28:25.820173: step 406.0, loss 1.89491, acc 0.421875
+2017-07-12T08:28:26.081035: step 407.0, loss 1.97823, acc 0.378906
+2017-07-12T08:28:26.360355: step 408.0, loss 1.99055, acc 0.394531
+2017-07-12T08:28:26.623471: step 409.0, loss 1.89809, acc 0.410156
+2017-07-12T08:28:26.899371: step 410.0, loss 1.88753, acc 0.382812
+2017-07-12T08:28:27.154935: step 411.0, loss 1.82621, acc 0.429688
+2017-07-12T08:28:27.426088: step 412.0, loss 2.00059, acc 0.375
+2017-07-12T08:28:27.675015: step 413.0, loss 2.03058, acc 0.390625
+2017-07-12T08:28:27.910563: step 414.0, loss 1.97204, acc 0.421875
+2017-07-12T08:28:28.147439: step 415.0, loss 1.96275, acc 0.394531
+2017-07-12T08:28:28.392742: step 416.0, loss 1.78131, acc 0.445312
+2017-07-12T08:28:28.640676: step 417.0, loss 1.86833, acc 0.445312
+2017-07-12T08:28:28.878326: step 418.0, loss 1.94655, acc 0.402344
+2017-07-12T08:28:29.135165: step 419.0, loss 1.82605, acc 0.414062
+2017-07-12T08:28:29.386349: step 420.0, loss 1.91995, acc 0.402344
+2017-07-12T08:28:29.624095: step 421.0, loss 1.85898, acc 0.414062
+2017-07-12T08:28:29.871231: step 422.0, loss 1.87436, acc 0.414062
+2017-07-12T08:28:30.128004: step 423.0, loss 1.8158, acc 0.449219
+2017-07-12T08:28:30.368005: step 424.0, loss 1.89883, acc 0.421875
+2017-07-12T08:28:30.666254: step 425.0, loss 1.77925, acc 0.449219
+2017-07-12T08:28:30.909788: step 426.0, loss 2.101, acc 0.378906
+2017-07-12T08:28:31.199829: step 427.0, loss 1.90613, acc 0.414062
+2017-07-12T08:28:31.433643: step 428.0, loss 1.94727, acc 0.457031
+2017-07-12T08:28:31.673650: step 429.0, loss 1.96741, acc 0.394531
+2017-07-12T08:28:32.054417: step 430.0, loss 1.83569, acc 0.421875
+2017-07-12T08:28:32.299444: step 431.0, loss 1.90928, acc 0.367188
+2017-07-12T08:28:32.559937: step 432.0, loss 1.86116, acc 0.359375
+2017-07-12T08:28:32.847451: step 433.0, loss 2.02014, acc 0.414062
+2017-07-12T08:28:33.106677: step 434.0, loss 1.81484, acc 0.421875
+2017-07-12T08:28:33.391800: step 435.0, loss 1.83729, acc 0.40625
+2017-07-12T08:28:33.655388: step 436.0, loss 1.79861, acc 0.410156
+2017-07-12T08:28:33.905111: step 437.0, loss 1.8302, acc 0.449219
+2017-07-12T08:28:34.180611: step 438.0, loss 1.75966, acc 0.445312
+2017-07-12T08:28:34.429786: step 439.0, loss 1.9027, acc 0.375
+2017-07-12T08:28:34.696809: step 440.0, loss 1.79694, acc 0.394531
+2017-07-12T08:28:34.984911: step 441.0, loss 1.95749, acc 0.382812
+2017-07-12T08:28:35.249424: step 442.0, loss 1.77556, acc 0.414062
+2017-07-12T08:28:35.500403: step 443.0, loss 1.77748, acc 0.433594
+2017-07-12T08:28:35.783718: step 444.0, loss 1.61576, acc 0.464844
+2017-07-12T08:28:36.075127: step 445.0, loss 1.56807, acc 0.46875
+2017-07-12T08:28:36.343394: step 446.0, loss 1.67482, acc 0.433594
+2017-07-12T08:28:36.606442: step 447.0, loss 1.74665, acc 0.433594
+2017-07-12T08:28:36.878616: step 448.0, loss 1.70465, acc 0.4375
+2017-07-12T08:28:37.144122: step 449.0, loss 1.69764, acc 0.488281
+2017-07-12T08:28:37.417515: step 450.0, loss 1.9251, acc 0.421875
+2017-07-12T08:28:37.736893: step 451.0, loss 1.78859, acc 0.449219
+2017-07-12T08:28:37.979239: step 452.0, loss 1.79315, acc 0.390625
+2017-07-12T08:28:38.272607: step 453.0, loss 1.88297, acc 0.40625
+2017-07-12T08:28:38.545383: step 454.0, loss 1.71676, acc 0.476562
+2017-07-12T08:28:38.822695: step 455.0, loss 1.73268, acc 0.445312
+2017-07-12T08:28:39.093424: step 456.0, loss 1.68912, acc 0.488281
+2017-07-12T08:28:39.394931: step 457.0, loss 1.77411, acc 0.40625
+2017-07-12T08:28:39.678285: step 458.0, loss 1.89153, acc 0.375
+2017-07-12T08:28:39.950120: step 459.0, loss 1.63147, acc 0.523438
+2017-07-12T08:28:40.213680: step 460.0, loss 1.76507, acc 0.425781
+2017-07-12T08:28:40.508546: step 461.0, loss 1.87689, acc 0.425781
+2017-07-12T08:28:40.752404: step 462.0, loss 1.8165, acc 0.386719
+2017-07-12T08:28:41.020951: step 463.0, loss 1.70485, acc 0.445312
+2017-07-12T08:28:41.262313: step 464.0, loss 1.69352, acc 0.421875
+2017-07-12T08:28:41.524448: step 465.0, loss 1.72128, acc 0.417969
+2017-07-12T08:28:41.789162: step 466.0, loss 1.74549, acc 0.394531
+2017-07-12T08:28:42.053916: step 467.0, loss 1.60891, acc 0.464844
+2017-07-12T08:28:42.338631: step 468.0, loss 1.75181, acc 0.375
+2017-07-12T08:28:42.606157: step 469.0, loss 1.72597, acc 0.421875
+2017-07-12T08:28:42.892918: step 470.0, loss 1.71103, acc 0.445312
+2017-07-12T08:28:43.157437: step 471.0, loss 1.88656, acc 0.464844
+2017-07-12T08:28:43.417687: step 472.0, loss 1.80244, acc 0.414062
+2017-07-12T08:28:43.686476: step 473.0, loss 1.63609, acc 0.460938
+2017-07-12T08:28:43.965631: step 474.0, loss 1.7595, acc 0.457031
+2017-07-12T08:28:44.234564: step 475.0, loss 1.71584, acc 0.441406
+2017-07-12T08:28:44.515304: step 476.0, loss 1.68991, acc 0.441406
+2017-07-12T08:28:44.763579: step 477.0, loss 1.71676, acc 0.4375
+2017-07-12T08:28:45.019222: step 478.0, loss 1.68682, acc 0.433594
+2017-07-12T08:28:45.265431: step 479.0, loss 1.68354, acc 0.484375
+2017-07-12T08:28:45.523567: step 480.0, loss 1.88361, acc 0.398438
+2017-07-12T08:28:45.813601: step 481.0, loss 1.84018, acc 0.414062
+2017-07-12T08:28:46.086943: step 482.0, loss 1.69109, acc 0.433594
+2017-07-12T08:28:46.346889: step 483.0, loss 1.64505, acc 0.390625
+2017-07-12T08:28:46.615578: step 484.0, loss 1.78207, acc 0.402344
+2017-07-12T08:28:46.863740: step 485.0, loss 1.7825, acc 0.421875
+2017-07-12T08:28:47.142966: step 486.0, loss 1.6181, acc 0.457031
+2017-07-12T08:28:47.390414: step 487.0, loss 1.78388, acc 0.40625
+2017-07-12T08:28:47.671826: step 488.0, loss 1.59407, acc 0.449219
+2017-07-12T08:28:47.923695: step 489.0, loss 1.70404, acc 0.425781
+2017-07-12T08:28:48.204521: step 490.0, loss 1.62624, acc 0.496094
+2017-07-12T08:28:48.461484: step 491.0, loss 1.95312, acc 0.421875
+2017-07-12T08:28:48.715269: step 492.0, loss 1.65608, acc 0.46875
+2017-07-12T08:28:48.968402: step 493.0, loss 1.72844, acc 0.449219
+2017-07-12T08:28:49.220956: step 494.0, loss 1.66475, acc 0.460938
+2017-07-12T08:28:49.467449: step 495.0, loss 1.68822, acc 0.421875
+2017-07-12T08:28:49.729959: step 496.0, loss 1.65228, acc 0.460938
+2017-07-12T08:28:49.976273: step 497.0, loss 1.52739, acc 0.457031
+2017-07-12T08:28:50.230589: step 498.0, loss 1.76136, acc 0.445312
+2017-07-12T08:28:50.492573: step 499.0, loss 1.55017, acc 0.488281
+2017-07-12T08:28:50.745229: step 500.0, loss 1.70038, acc 0.4375
+2017-07-12T08:28:51.031451: step 501.0, loss 1.53268, acc 0.496094
+2017-07-12T08:28:51.303263: step 502.0, loss 1.64033, acc 0.464844
+2017-07-12T08:28:51.557578: step 503.0, loss 1.74413, acc 0.394531
+2017-07-12T08:28:51.830494: step 504.0, loss 1.82411, acc 0.421875
+2017-07-12T08:28:52.088626: step 505.0, loss 1.6145, acc 0.480469
+2017-07-12T08:28:52.354304: step 506.0, loss 1.82365, acc 0.429688
+2017-07-12T08:28:52.629999: step 507.0, loss 1.77527, acc 0.476562
+2017-07-12T08:28:52.891163: step 508.0, loss 1.90042, acc 0.417969
+2017-07-12T08:28:53.161132: step 509.0, loss 1.6336, acc 0.433594
+2017-07-12T08:28:53.446869: step 510.0, loss 1.59399, acc 0.46875
+2017-07-12T08:28:53.695473: step 511.0, loss 1.62716, acc 0.460938
+2017-07-12T08:28:53.952711: step 512.0, loss 1.67041, acc 0.460938
+2017-07-12T08:28:54.211164: step 513.0, loss 1.83644, acc 0.414062
+2017-07-12T08:28:54.492947: step 514.0, loss 1.62626, acc 0.46875
+2017-07-12T08:28:54.751681: step 515.0, loss 1.50207, acc 0.484375
+2017-07-12T08:28:55.008802: step 516.0, loss 1.72442, acc 0.445312
+2017-07-12T08:28:55.285761: step 517.0, loss 1.74246, acc 0.386719
+2017-07-12T08:28:55.539116: step 518.0, loss 1.73627, acc 0.429688
+2017-07-12T08:28:55.802599: step 519.0, loss 1.75484, acc 0.445312
+2017-07-12T08:28:56.053414: step 520.0, loss 1.62121, acc 0.492188
+2017-07-12T08:28:56.311666: step 521.0, loss 1.80047, acc 0.40625
+2017-07-12T08:28:56.576151: step 522.0, loss 1.49471, acc 0.519531
+2017-07-12T08:28:56.823221: step 523.0, loss 1.62563, acc 0.433594
+2017-07-12T08:28:57.159052: step 524.0, loss 1.62668, acc 0.457031
+2017-07-12T08:28:57.411679: step 525.0, loss 1.47045, acc 0.492188
+2017-07-12T08:28:57.655957: step 526.0, loss 1.58023, acc 0.464844
+2017-07-12T08:28:58.024100: step 527.0, loss 1.473, acc 0.5
+2017-07-12T08:28:58.260251: step 528.0, loss 1.66328, acc 0.46875
+2017-07-12T08:28:58.508388: step 529.0, loss 1.62891, acc 0.480469
+2017-07-12T08:28:58.825057: step 530.0, loss 1.65694, acc 0.488281
+2017-07-12T08:28:59.062786: step 531.0, loss 1.5992, acc 0.492188
+2017-07-12T08:28:59.304862: step 532.0, loss 1.63157, acc 0.460938
+2017-07-12T08:28:59.558047: step 533.0, loss 1.49535, acc 0.484375
+2017-07-12T08:28:59.817566: step 534.0, loss 1.73675, acc 0.445312
+2017-07-12T08:29:00.084934: step 535.0, loss 1.69587, acc 0.425781
+2017-07-12T08:29:00.346469: step 536.0, loss 1.58939, acc 0.433594
+2017-07-12T08:29:00.602288: step 537.0, loss 1.58734, acc 0.46875
+2017-07-12T08:29:00.865020: step 538.0, loss 1.51116, acc 0.507812
+2017-07-12T08:29:01.133152: step 539.0, loss 1.58246, acc 0.46875
+2017-07-12T08:29:01.374696: step 540.0, loss 1.59992, acc 0.480469
+2017-07-12T08:29:01.623797: step 541.0, loss 1.62198, acc 0.453125
+2017-07-12T08:29:01.868096: step 542.0, loss 1.65608, acc 0.46875
+2017-07-12T08:29:02.136579: step 543.0, loss 1.63579, acc 0.429688
+2017-07-12T08:29:02.376158: step 544.0, loss 1.61665, acc 0.464844
+2017-07-12T08:29:02.648283: step 545.0, loss 1.64154, acc 0.457031
+2017-07-12T08:29:02.913727: step 546.0, loss 1.53315, acc 0.46875
+2017-07-12T08:29:03.203373: step 547.0, loss 1.6356, acc 0.488281
+2017-07-12T08:29:03.464545: step 548.0, loss 1.49314, acc 0.507812
+2017-07-12T08:29:03.758298: step 549.0, loss 1.82689, acc 0.402344
+2017-07-12T08:29:03.998373: step 550.0, loss 1.55543, acc 0.496094
+2017-07-12T08:29:04.243661: step 551.0, loss 1.58947, acc 0.445312
+2017-07-12T08:29:04.506633: step 552.0, loss 1.66482, acc 0.453125
+2017-07-12T08:29:04.727986: step 553.0, loss 1.5676, acc 0.515625
+2017-07-12T08:29:04.980654: step 554.0, loss 1.78579, acc 0.398438
+2017-07-12T08:29:05.236551: step 555.0, loss 1.56296, acc 0.464844
+2017-07-12T08:29:05.517217: step 556.0, loss 1.60868, acc 0.527344
+2017-07-12T08:29:05.767626: step 557.0, loss 1.57573, acc 0.496094
+2017-07-12T08:29:06.031176: step 558.0, loss 1.64508, acc 0.457031
+2017-07-12T08:29:06.300599: step 559.0, loss 1.59049, acc 0.449219
+2017-07-12T08:29:06.561364: step 560.0, loss 1.64546, acc 0.425781
+2017-07-12T08:29:06.822836: step 561.0, loss 1.39709, acc 0.515625
+2017-07-12T08:29:07.070238: step 562.0, loss 1.52077, acc 0.460938
+2017-07-12T08:29:07.321258: step 563.0, loss 1.47908, acc 0.496094
+2017-07-12T08:29:07.564684: step 564.0, loss 1.57883, acc 0.492188
+2017-07-12T08:29:07.839817: step 565.0, loss 1.56078, acc 0.496094
+2017-07-12T08:29:08.098116: step 566.0, loss 1.42687, acc 0.527344
+2017-07-12T08:29:08.350800: step 567.0, loss 1.4654, acc 0.503906
+2017-07-12T08:29:08.611554: step 568.0, loss 1.49607, acc 0.488281
+2017-07-12T08:29:08.862079: step 569.0, loss 1.47019, acc 0.523438
+2017-07-12T08:29:09.150179: step 570.0, loss 1.53907, acc 0.488281
+2017-07-12T08:29:09.400414: step 571.0, loss 1.53887, acc 0.484375
+2017-07-12T08:29:09.647066: step 572.0, loss 1.51703, acc 0.476562
+2017-07-12T08:29:09.893772: step 573.0, loss 1.63064, acc 0.46875
+2017-07-12T08:29:10.188485: step 574.0, loss 1.41306, acc 0.5
+2017-07-12T08:29:10.460726: step 575.0, loss 1.47985, acc 0.550781
+2017-07-12T08:29:10.727851: step 576.0, loss 1.58033, acc 0.453125
+2017-07-12T08:29:11.065433: step 577.0, loss 1.34087, acc 0.542969
+2017-07-12T08:29:11.302635: step 578.0, loss 1.48719, acc 0.496094
+2017-07-12T08:29:11.566880: step 579.0, loss 1.36233, acc 0.554688
+2017-07-12T08:29:11.811690: step 580.0, loss 1.498, acc 0.496094
+2017-07-12T08:29:12.076758: step 581.0, loss 1.45431, acc 0.507812
+2017-07-12T08:29:12.340889: step 582.0, loss 1.56021, acc 0.476562
+2017-07-12T08:29:12.598592: step 583.0, loss 1.67577, acc 0.476562
+2017-07-12T08:29:12.862718: step 584.0, loss 1.54623, acc 0.488281
+2017-07-12T08:29:13.144359: step 585.0, loss 1.53398, acc 0.492188
+2017-07-12T08:29:13.426891: step 586.0, loss 1.56209, acc 0.457031
+2017-07-12T08:29:13.687210: step 587.0, loss 1.54745, acc 0.453125
+2017-07-12T08:29:13.942095: step 588.0, loss 1.60825, acc 0.453125
+2017-07-12T08:29:14.195652: step 589.0, loss 1.49896, acc 0.539062
+2017-07-12T08:29:14.463792: step 590.0, loss 1.48544, acc 0.492188
+2017-07-12T08:29:14.722319: step 591.0, loss 1.69325, acc 0.464844
+2017-07-12T08:29:14.985690: step 592.0, loss 1.59076, acc 0.460938
+2017-07-12T08:29:15.235562: step 593.0, loss 1.52413, acc 0.480469
+2017-07-12T08:29:15.485722: step 594.0, loss 1.46172, acc 0.507812
+2017-07-12T08:29:15.744025: step 595.0, loss 1.47127, acc 0.523438
+2017-07-12T08:29:15.997039: step 596.0, loss 1.50431, acc 0.507812
+2017-07-12T08:29:16.276704: step 597.0, loss 1.50619, acc 0.472656
+2017-07-12T08:29:16.530789: step 598.0, loss 1.3689, acc 0.507812
+2017-07-12T08:29:16.866953: step 599.0, loss 1.37909, acc 0.53125
+2017-07-12T08:29:17.131096: step 600.0, loss 1.56258, acc 0.488281
+2017-07-12T08:29:17.395548: step 601.0, loss 1.5281, acc 0.480469
+2017-07-12T08:29:17.649102: step 602.0, loss 1.49842, acc 0.503906
+2017-07-12T08:29:17.916850: step 603.0, loss 1.63096, acc 0.441406
+2017-07-12T08:29:18.178261: step 604.0, loss 1.49826, acc 0.476562
+2017-07-12T08:29:18.413939: step 605.0, loss 1.62909, acc 0.476562
+2017-07-12T08:29:18.650187: step 606.0, loss 1.42297, acc 0.503906
+2017-07-12T08:29:18.968986: step 607.0, loss 1.5892, acc 0.457031
+2017-07-12T08:29:19.193705: step 608.0, loss 1.59046, acc 0.464844
+2017-07-12T08:29:19.455824: step 609.0, loss 1.638, acc 0.460938
+2017-07-12T08:29:19.722010: step 610.0, loss 1.58099, acc 0.496094
+2017-07-12T08:29:19.967706: step 611.0, loss 1.5425, acc 0.449219
+2017-07-12T08:29:20.211325: step 612.0, loss 1.4481, acc 0.523438
+2017-07-12T08:29:20.463019: step 613.0, loss 1.61784, acc 0.460938
+2017-07-12T08:29:20.756243: step 614.0, loss 1.6217, acc 0.488281
+2017-07-12T08:29:21.005212: step 615.0, loss 1.40608, acc 0.554688
+2017-07-12T08:29:21.242526: step 616.0, loss 1.58713, acc 0.453125
+2017-07-12T08:29:21.489675: step 617.0, loss 1.5894, acc 0.496094
+2017-07-12T08:29:21.762669: step 618.0, loss 1.4826, acc 0.507812
+2017-07-12T08:29:22.017521: step 619.0, loss 1.53737, acc 0.496094
+2017-07-12T08:29:22.303640: step 620.0, loss 1.45399, acc 0.515625
+2017-07-12T08:29:22.548653: step 621.0, loss 1.44433, acc 0.511719
+2017-07-12T08:29:22.818803: step 622.0, loss 1.56245, acc 0.453125
+2017-07-12T08:29:23.063155: step 623.0, loss 1.33744, acc 0.554688
+2017-07-12T08:29:23.308679: step 624.0, loss 1.61784, acc 0.480469
+2017-07-12T08:29:23.563887: step 625.0, loss 1.43964, acc 0.480469
+2017-07-12T08:29:23.820751: step 626.0, loss 1.52448, acc 0.488281
+2017-07-12T08:29:24.099619: step 627.0, loss 1.53205, acc 0.460938
+2017-07-12T08:29:24.368599: step 628.0, loss 1.56032, acc 0.492188
+2017-07-12T08:29:24.623991: step 629.0, loss 1.32755, acc 0.546875
+2017-07-12T08:29:24.968998: step 630.0, loss 1.64409, acc 0.480469
+2017-07-12T08:29:25.203354: step 631.0, loss 1.55145, acc 0.503906
+2017-07-12T08:29:25.448261: step 632.0, loss 1.43815, acc 0.523438
+2017-07-12T08:29:25.713350: step 633.0, loss 1.47061, acc 0.492188
+2017-07-12T08:29:25.967552: step 634.0, loss 1.57779, acc 0.46875
+2017-07-12T08:29:26.241417: step 635.0, loss 1.49035, acc 0.476562
+2017-07-12T08:29:26.488698: step 636.0, loss 1.41826, acc 0.503906
+2017-07-12T08:29:26.755283: step 637.0, loss 1.21211, acc 0.566406
+2017-07-12T08:29:27.020756: step 638.0, loss 1.61146, acc 0.46875
+2017-07-12T08:29:27.292707: step 639.0, loss 1.58217, acc 0.46875
+2017-07-12T08:29:27.549324: step 640.0, loss 1.37419, acc 0.558594
+2017-07-12T08:29:27.820136: step 641.0, loss 1.42114, acc 0.527344
+2017-07-12T08:29:28.061443: step 642.0, loss 1.52227, acc 0.507812
+2017-07-12T08:29:28.337425: step 643.0, loss 1.38924, acc 0.558594
+2017-07-12T08:29:28.589076: step 644.0, loss 1.39019, acc 0.535156
+2017-07-12T08:29:28.825105: step 645.0, loss 1.49948, acc 0.507812
+2017-07-12T08:29:29.070186: step 646.0, loss 1.60028, acc 0.496094
+2017-07-12T08:29:29.324442: step 647.0, loss 1.41841, acc 0.53125
+2017-07-12T08:29:29.566358: step 648.0, loss 1.53141, acc 0.515625
+2017-07-12T08:29:29.831279: step 649.0, loss 1.39318, acc 0.53125
+2017-07-12T08:29:30.064291: step 650.0, loss 1.4093, acc 0.550781
+2017-07-12T08:29:30.315523: step 651.0, loss 1.42634, acc 0.527344
+2017-07-12T08:29:30.575860: step 652.0, loss 1.64612, acc 0.496094
+2017-07-12T08:29:30.896545: step 653.0, loss 1.46135, acc 0.550781
+2017-07-12T08:29:31.139383: step 654.0, loss 1.67698, acc 0.488281
+2017-07-12T08:29:31.388728: step 655.0, loss 1.50444, acc 0.492188
+2017-07-12T08:29:31.750088: step 656.0, loss 1.26735, acc 0.578125
+2017-07-12T08:29:31.984515: step 657.0, loss 1.35086, acc 0.511719
+2017-07-12T08:29:32.230063: step 658.0, loss 1.55446, acc 0.5
+2017-07-12T08:29:32.469872: step 659.0, loss 1.33294, acc 0.539062
+2017-07-12T08:29:32.710447: step 660.0, loss 1.33289, acc 0.492188
+2017-07-12T08:29:32.950856: step 661.0, loss 1.53365, acc 0.492188
+2017-07-12T08:29:33.289435: step 662.0, loss 1.40783, acc 0.519531
+2017-07-12T08:29:33.544807: step 663.0, loss 1.5295, acc 0.484375
+2017-07-12T08:29:33.808428: step 664.0, loss 1.49954, acc 0.507812
+2017-07-12T08:29:34.076476: step 665.0, loss 1.38217, acc 0.535156
+2017-07-12T08:29:34.341236: step 666.0, loss 1.46373, acc 0.488281
+2017-07-12T08:29:34.590395: step 667.0, loss 1.42327, acc 0.535156
+2017-07-12T08:29:34.850432: step 668.0, loss 1.33668, acc 0.542969
+2017-07-12T08:29:35.111290: step 669.0, loss 1.39191, acc 0.535156
+2017-07-12T08:29:35.357707: step 670.0, loss 1.42675, acc 0.511719
+2017-07-12T08:29:35.607027: step 671.0, loss 1.58204, acc 0.46875
+2017-07-12T08:29:35.857011: step 672.0, loss 1.52522, acc 0.472656
+2017-07-12T08:29:36.097405: step 673.0, loss 1.47552, acc 0.484375
+2017-07-12T08:29:36.339286: step 674.0, loss 1.24293, acc 0.597656
+2017-07-12T08:29:36.595021: step 675.0, loss 1.49474, acc 0.503906
+2017-07-12T08:29:36.846330: step 676.0, loss 1.50337, acc 0.507812
+2017-07-12T08:29:37.120797: step 677.0, loss 1.42352, acc 0.527344
+2017-07-12T08:29:37.375726: step 678.0, loss 1.53595, acc 0.472656
+2017-07-12T08:29:37.617730: step 679.0, loss 1.41075, acc 0.566406
+2017-07-12T08:29:37.866638: step 680.0, loss 1.41486, acc 0.570312
+2017-07-12T08:29:38.097454: step 681.0, loss 1.56774, acc 0.496094
+2017-07-12T08:29:38.358289: step 682.0, loss 1.25072, acc 0.59375
+2017-07-12T08:29:38.668073: step 683.0, loss 1.39131, acc 0.542969
+2017-07-12T08:29:38.922095: step 684.0, loss 1.50184, acc 0.53125
+2017-07-12T08:29:39.195616: step 685.0, loss 1.32468, acc 0.566406
+2017-07-12T08:29:39.477803: step 686.0, loss 1.16772, acc 0.597656
+2017-07-12T08:29:39.733871: step 687.0, loss 1.32661, acc 0.539062
+2017-07-12T08:29:40.009846: step 688.0, loss 1.42246, acc 0.527344
+2017-07-12T08:29:40.253496: step 689.0, loss 1.36697, acc 0.515625
+2017-07-12T08:29:40.522034: step 690.0, loss 1.54332, acc 0.484375
+2017-07-12T08:29:40.765691: step 691.0, loss 1.41161, acc 0.515625
+2017-07-12T08:29:41.028348: step 692.0, loss 1.48537, acc 0.46875
+2017-07-12T08:29:41.296509: step 693.0, loss 1.50235, acc 0.511719
+2017-07-12T08:29:41.563924: step 694.0, loss 1.29408, acc 0.597656
+2017-07-12T08:29:41.834735: step 695.0, loss 1.34496, acc 0.550781
+2017-07-12T08:29:42.083242: step 696.0, loss 1.36887, acc 0.5
+2017-07-12T08:29:42.326415: step 697.0, loss 1.36408, acc 0.519531
+2017-07-12T08:29:42.583551: step 698.0, loss 1.38178, acc 0.519531
+2017-07-12T08:29:42.838308: step 699.0, loss 1.60266, acc 0.480469
+2017-07-12T08:29:43.071032: step 700.0, loss 1.33792, acc 0.542969
+2017-07-12T08:29:43.323472: step 701.0, loss 1.42607, acc 0.515625
+2017-07-12T08:29:43.557952: step 702.0, loss 1.41272, acc 0.484375
+2017-07-12T08:29:43.838233: step 703.0, loss 1.33929, acc 0.554688
+2017-07-12T08:29:44.095952: step 704.0, loss 1.27009, acc 0.546875
+2017-07-12T08:29:44.318428: step 705.0, loss 1.52465, acc 0.453125
+2017-07-12T08:29:44.571867: step 706.0, loss 1.48438, acc 0.507812
+2017-07-12T08:29:44.819736: step 707.0, loss 1.60211, acc 0.453125
+2017-07-12T08:29:45.045176: step 708.0, loss 1.41757, acc 0.507812
+2017-07-12T08:29:45.356746: step 709.0, loss 1.3774, acc 0.519531
+2017-07-12T08:29:45.618448: step 710.0, loss 1.33821, acc 0.527344
+2017-07-12T08:29:45.878916: step 711.0, loss 1.30461, acc 0.585938
+2017-07-12T08:29:46.132935: step 712.0, loss 1.36129, acc 0.515625
+2017-07-12T08:29:46.373390: step 713.0, loss 1.41712, acc 0.523438
+2017-07-12T08:29:46.632557: step 714.0, loss 1.44982, acc 0.484375
+2017-07-12T08:29:46.919280: step 715.0, loss 1.40804, acc 0.507812
+2017-07-12T08:29:47.171868: step 716.0, loss 1.38828, acc 0.546875
+2017-07-12T08:29:47.434342: step 717.0, loss 1.46524, acc 0.488281
+2017-07-12T08:29:47.679860: step 718.0, loss 1.43817, acc 0.480469
+2017-07-12T08:29:47.951593: step 719.0, loss 1.42834, acc 0.507812
+2017-07-12T08:29:48.216513: step 720.0, loss 1.27909, acc 0.5625
+2017-07-12T08:29:48.455785: step 721.0, loss 1.33163, acc 0.535156
+2017-07-12T08:29:48.720599: step 722.0, loss 1.58217, acc 0.496094
+2017-07-12T08:29:48.968781: step 723.0, loss 1.40056, acc 0.542969
+2017-07-12T08:29:49.214185: step 724.0, loss 1.41997, acc 0.511719
+2017-07-12T08:29:49.462901: step 725.0, loss 1.40473, acc 0.527344
+2017-07-12T08:29:49.698577: step 726.0, loss 1.4175, acc 0.511719
+2017-07-12T08:29:49.954429: step 727.0, loss 1.44055, acc 0.46875
+2017-07-12T08:29:50.195706: step 728.0, loss 1.35705, acc 0.539062
+2017-07-12T08:29:50.487288: step 729.0, loss 1.43619, acc 0.542969
+2017-07-12T08:29:50.753354: step 730.0, loss 1.29444, acc 0.5625
+2017-07-12T08:29:50.995858: step 731.0, loss 1.39147, acc 0.503906
+2017-07-12T08:29:51.260947: step 732.0, loss 1.37963, acc 0.535156
+2017-07-12T08:29:51.513594: step 733.0, loss 1.36076, acc 0.546875
+2017-07-12T08:29:51.801406: step 734.0, loss 1.43221, acc 0.507812
+2017-07-12T08:29:52.043396: step 735.0, loss 1.27223, acc 0.5625
+2017-07-12T08:29:52.299604: step 736.0, loss 1.44151, acc 0.480469
+2017-07-12T08:29:52.641569: step 737.0, loss 1.32287, acc 0.566406
+2017-07-12T08:29:52.880817: step 738.0, loss 1.41306, acc 0.492188
+2017-07-12T08:29:53.157038: step 739.0, loss 1.38278, acc 0.542969
+2017-07-12T08:29:53.478453: step 740.0, loss 1.34052, acc 0.554688
+2017-07-12T08:29:53.738052: step 741.0, loss 1.24794, acc 0.527344
+2017-07-12T08:29:53.990898: step 742.0, loss 1.3174, acc 0.546875
+2017-07-12T08:29:54.240868: step 743.0, loss 1.16789, acc 0.609375
+2017-07-12T08:29:54.500126: step 744.0, loss 1.43894, acc 0.53125
+2017-07-12T08:29:54.755633: step 745.0, loss 1.26098, acc 0.59375
+2017-07-12T08:29:55.009236: step 746.0, loss 1.36157, acc 0.546875
+2017-07-12T08:29:55.254259: step 747.0, loss 1.31399, acc 0.554688
+2017-07-12T08:29:55.483895: step 748.0, loss 1.40459, acc 0.53125
+2017-07-12T08:29:55.746950: step 749.0, loss 1.44141, acc 0.527344
+2017-07-12T08:29:56.021360: step 750.0, loss 1.273, acc 0.585938
+2017-07-12T08:29:56.300508: step 751.0, loss 1.23233, acc 0.5625
+2017-07-12T08:29:56.567874: step 752.0, loss 1.27284, acc 0.582031
+2017-07-12T08:29:56.819877: step 753.0, loss 1.4148, acc 0.542969
+2017-07-12T08:29:57.060356: step 754.0, loss 1.38566, acc 0.535156
+2017-07-12T08:29:57.337508: step 755.0, loss 1.34957, acc 0.523438
+2017-07-12T08:29:57.611501: step 756.0, loss 1.37579, acc 0.515625
+2017-07-12T08:29:57.903403: step 757.0, loss 1.26422, acc 0.574219
+2017-07-12T08:29:58.157713: step 758.0, loss 1.22367, acc 0.578125
+2017-07-12T08:29:58.412899: step 759.0, loss 1.27872, acc 0.570312
+2017-07-12T08:29:58.657486: step 760.0, loss 1.33234, acc 0.515625
+2017-07-12T08:29:58.918764: step 761.0, loss 1.37722, acc 0.542969
+2017-07-12T08:29:59.186000: step 762.0, loss 1.29633, acc 0.546875
+2017-07-12T08:29:59.435872: step 763.0, loss 1.34787, acc 0.519531
+2017-07-12T08:29:59.689339: step 764.0, loss 1.3634, acc 0.578125
+2017-07-12T08:29:59.950486: step 765.0, loss 1.32935, acc 0.542969
+2017-07-12T08:30:00.228845: step 766.0, loss 1.24413, acc 0.589844
+2017-07-12T08:30:00.495400: step 767.0, loss 1.2135, acc 0.566406
+2017-07-12T08:30:00.748233: step 768.0, loss 1.28441, acc 0.5625
+2017-07-12T08:30:00.997814: step 769.0, loss 1.25586, acc 0.574219
+2017-07-12T08:30:01.241252: step 770.0, loss 1.25658, acc 0.585938
+2017-07-12T08:30:01.488946: step 771.0, loss 1.3695, acc 0.546875
+2017-07-12T08:30:01.760168: step 772.0, loss 1.38419, acc 0.519531
+2017-07-12T08:30:02.005115: step 773.0, loss 1.38308, acc 0.53125
+2017-07-12T08:30:02.280388: step 774.0, loss 1.22804, acc 0.558594
+2017-07-12T08:30:02.538985: step 775.0, loss 1.29994, acc 0.5625
+2017-07-12T08:30:02.853561: step 776.0, loss 1.20265, acc 0.589844
+2017-07-12T08:30:03.098105: step 777.0, loss 1.37728, acc 0.53125
+2017-07-12T08:30:03.359093: step 778.0, loss 1.30962, acc 0.574219
+2017-07-12T08:30:03.597317: step 779.0, loss 1.32195, acc 0.566406
+2017-07-12T08:30:03.867684: step 780.0, loss 1.33551, acc 0.550781
+2017-07-12T08:30:04.128594: step 781.0, loss 1.36976, acc 0.558594
+2017-07-12T08:30:04.365961: step 782.0, loss 1.20606, acc 0.617188
+2017-07-12T08:30:04.594047: step 783.0, loss 1.3703, acc 0.535156
+2017-07-12T08:30:04.878224: step 784.0, loss 1.27648, acc 0.539062
+2017-07-12T08:30:05.122576: step 785.0, loss 1.42628, acc 0.554688
+2017-07-12T08:30:05.367470: step 786.0, loss 1.40499, acc 0.542969
+2017-07-12T08:30:05.622194: step 787.0, loss 1.31015, acc 0.550781
+2017-07-12T08:30:05.879724: step 788.0, loss 1.28172, acc 0.617188
+2017-07-12T08:30:06.121960: step 789.0, loss 1.31441, acc 0.542969
+2017-07-12T08:30:06.369708: step 790.0, loss 1.41092, acc 0.539062
+2017-07-12T08:30:06.618856: step 791.0, loss 1.2842, acc 0.582031
+2017-07-12T08:30:06.894611: step 792.0, loss 1.39825, acc 0.519531
+2017-07-12T08:30:07.145651: step 793.0, loss 1.27672, acc 0.570312
+2017-07-12T08:30:07.404916: step 794.0, loss 1.33583, acc 0.558594
+2017-07-12T08:30:07.655411: step 795.0, loss 1.30423, acc 0.585938
+2017-07-12T08:30:07.927403: step 796.0, loss 1.33311, acc 0.546875
+2017-07-12T08:30:08.185077: step 797.0, loss 1.24622, acc 0.558594
+2017-07-12T08:30:08.457465: step 798.0, loss 1.12313, acc 0.589844
+2017-07-12T08:30:08.709972: step 799.0, loss 1.38295, acc 0.523438
+2017-07-12T08:30:08.983267: step 800.0, loss 1.29528, acc 0.574219
+2017-07-12T08:30:09.227474: step 801.0, loss 1.38037, acc 0.542969
+2017-07-12T08:30:09.476586: step 802.0, loss 1.35712, acc 0.523438
+2017-07-12T08:30:09.720684: step 803.0, loss 1.22449, acc 0.574219
+2017-07-12T08:30:09.979094: step 804.0, loss 1.45718, acc 0.5
+2017-07-12T08:30:10.221824: step 805.0, loss 1.34091, acc 0.53125
+2017-07-12T08:30:10.464945: step 806.0, loss 1.2494, acc 0.585938
+2017-07-12T08:30:10.728548: step 807.0, loss 1.45192, acc 0.488281
+2017-07-12T08:30:10.993026: step 808.0, loss 1.26843, acc 0.609375
+2017-07-12T08:30:11.296894: step 809.0, loss 1.14668, acc 0.605469
+2017-07-12T08:30:11.557967: step 810.0, loss 1.33345, acc 0.566406
+2017-07-12T08:30:11.841719: step 811.0, loss 1.28935, acc 0.550781
+2017-07-12T08:30:12.096138: step 812.0, loss 1.27807, acc 0.582031
+2017-07-12T08:30:12.363336: step 813.0, loss 1.32308, acc 0.578125
+2017-07-12T08:30:12.685032: step 814.0, loss 1.17048, acc 0.613281
+2017-07-12T08:30:12.940985: step 815.0, loss 1.35241, acc 0.558594
+2017-07-12T08:30:13.199049: step 816.0, loss 1.26627, acc 0.582031
+2017-07-12T08:30:13.493318: step 817.0, loss 1.24756, acc 0.582031
+2017-07-12T08:30:13.754492: step 818.0, loss 1.40785, acc 0.515625
+2017-07-12T08:30:14.011619: step 819.0, loss 1.37651, acc 0.535156
+2017-07-12T08:30:14.279344: step 820.0, loss 1.45156, acc 0.535156
+2017-07-12T08:30:14.536291: step 821.0, loss 1.26788, acc 0.578125
+2017-07-12T08:30:14.824413: step 822.0, loss 1.47226, acc 0.511719
+2017-07-12T08:30:15.077023: step 823.0, loss 1.17644, acc 0.59375
+2017-07-12T08:30:15.354127: step 824.0, loss 1.27362, acc 0.570312
+2017-07-12T08:30:15.608580: step 825.0, loss 1.29523, acc 0.566406
+2017-07-12T08:30:15.908515: step 826.0, loss 1.33323, acc 0.550781
+2017-07-12T08:30:16.177878: step 827.0, loss 1.39158, acc 0.519531
+2017-07-12T08:30:16.435778: step 828.0, loss 1.14752, acc 0.570312
+2017-07-12T08:30:16.703566: step 829.0, loss 1.30054, acc 0.5625
+2017-07-12T08:30:16.969995: step 830.0, loss 1.11574, acc 0.648438
+2017-07-12T08:30:17.230079: step 831.0, loss 1.21515, acc 0.582031
+2017-07-12T08:30:17.503458: step 832.0, loss 1.22172, acc 0.613281
+2017-07-12T08:30:17.820532: step 833.0, loss 1.25589, acc 0.566406
+2017-07-12T08:30:18.075515: step 834.0, loss 1.27545, acc 0.5625
+2017-07-12T08:30:18.359565: step 835.0, loss 1.18889, acc 0.609375
+2017-07-12T08:30:18.614763: step 836.0, loss 1.15242, acc 0.601562
+2017-07-12T08:30:18.870281: step 837.0, loss 1.29835, acc 0.585938
+2017-07-12T08:30:19.220420: step 838.0, loss 1.32697, acc 0.5625
+2017-07-12T08:30:19.464904: step 839.0, loss 1.30825, acc 0.519531
+2017-07-12T08:30:19.743908: step 840.0, loss 1.22525, acc 0.578125
+2017-07-12T08:30:20.037823: step 841.0, loss 1.24501, acc 0.578125
+2017-07-12T08:30:20.291895: step 842.0, loss 1.28817, acc 0.578125
+2017-07-12T08:30:20.569789: step 843.0, loss 1.17843, acc 0.582031
+2017-07-12T08:30:20.816685: step 844.0, loss 1.31127, acc 0.539062
+2017-07-12T08:30:21.089753: step 845.0, loss 1.22033, acc 0.613281
+2017-07-12T08:30:21.340432: step 846.0, loss 1.33354, acc 0.546875
+2017-07-12T08:30:21.613561: step 847.0, loss 1.19606, acc 0.601562
+2017-07-12T08:30:21.871515: step 848.0, loss 1.1888, acc 0.582031
+2017-07-12T08:30:22.144069: step 849.0, loss 1.16454, acc 0.617188
+2017-07-12T08:30:22.410624: step 850.0, loss 1.37414, acc 0.523438
+2017-07-12T08:30:22.701188: step 851.0, loss 1.50129, acc 0.507812
+2017-07-12T08:30:22.990054: step 852.0, loss 1.31269, acc 0.527344
+2017-07-12T08:30:23.291747: step 853.0, loss 1.11852, acc 0.617188
+2017-07-12T08:30:23.540247: step 854.0, loss 1.38052, acc 0.574219
+2017-07-12T08:30:23.831331: step 855.0, loss 1.30428, acc 0.59375
+2017-07-12T08:30:24.113042: step 856.0, loss 1.34383, acc 0.582031
+2017-07-12T08:30:24.389072: step 857.0, loss 1.25832, acc 0.558594
+2017-07-12T08:30:24.666716: step 858.0, loss 1.22161, acc 0.585938
+2017-07-12T08:30:24.929295: step 859.0, loss 1.17324, acc 0.609375
+2017-07-12T08:30:25.195545: step 860.0, loss 1.37044, acc 0.558594
+2017-07-12T08:30:25.481562: step 861.0, loss 1.14165, acc 0.605469
+2017-07-12T08:30:25.766498: step 862.0, loss 1.26336, acc 0.550781
+2017-07-12T08:30:26.041455: step 863.0, loss 1.34978, acc 0.558594
+2017-07-12T08:30:26.332240: step 864.0, loss 1.24024, acc 0.585938
+2017-07-12T08:30:26.631536: step 865.0, loss 1.16264, acc 0.601562
+2017-07-12T08:30:26.919372: step 866.0, loss 1.18239, acc 0.597656
+2017-07-12T08:30:27.177398: step 867.0, loss 1.16207, acc 0.605469
+2017-07-12T08:30:27.432772: step 868.0, loss 1.22831, acc 0.601562
+2017-07-12T08:30:27.689835: step 869.0, loss 1.15125, acc 0.613281
+2017-07-12T08:30:27.941031: step 870.0, loss 1.27684, acc 0.570312
+2017-07-12T08:30:28.209800: step 871.0, loss 1.36045, acc 0.5625
+2017-07-12T08:30:28.463005: step 872.0, loss 1.24864, acc 0.578125
+2017-07-12T08:30:28.710464: step 873.0, loss 1.12504, acc 0.617188
+2017-07-12T08:30:28.960761: step 874.0, loss 1.24849, acc 0.550781
+2017-07-12T08:30:29.230526: step 875.0, loss 1.22106, acc 0.605469
+2017-07-12T08:30:29.474473: step 876.0, loss 1.27285, acc 0.5625
+2017-07-12T08:30:29.744952: step 877.0, loss 1.42843, acc 0.546875
+2017-07-12T08:30:29.993851: step 878.0, loss 1.30152, acc 0.585938
+2017-07-12T08:30:30.272670: step 879.0, loss 1.17874, acc 0.585938
+2017-07-12T08:30:30.529687: step 880.0, loss 1.13078, acc 0.617188
+2017-07-12T08:30:30.813181: step 881.0, loss 1.26167, acc 0.535156
+2017-07-12T08:30:31.173549: step 882.0, loss 1.2947, acc 0.5625
+2017-07-12T08:30:31.427147: step 883.0, loss 1.27114, acc 0.550781
+2017-07-12T08:30:31.679527: step 884.0, loss 1.18714, acc 0.597656
+2017-07-12T08:30:31.947541: step 885.0, loss 1.17939, acc 0.578125
+2017-07-12T08:30:32.185746: step 886.0, loss 1.24996, acc 0.585938
+2017-07-12T08:30:32.488798: step 887.0, loss 1.28407, acc 0.578125
+2017-07-12T08:30:32.752862: step 888.0, loss 1.26442, acc 0.574219
+2017-07-12T08:30:33.000181: step 889.0, loss 1.29582, acc 0.578125
+2017-07-12T08:30:33.341092: step 890.0, loss 1.21007, acc 0.582031
+2017-07-12T08:30:33.617748: step 891.0, loss 1.30304, acc 0.558594
+2017-07-12T08:30:33.881976: step 892.0, loss 1.16125, acc 0.582031
+2017-07-12T08:30:34.136636: step 893.0, loss 1.23272, acc 0.570312
+2017-07-12T08:30:34.401530: step 894.0, loss 1.07714, acc 0.648438
+2017-07-12T08:30:34.670745: step 895.0, loss 1.19871, acc 0.605469
+2017-07-12T08:30:34.947428: step 896.0, loss 1.22106, acc 0.601562
+2017-07-12T08:30:35.210376: step 897.0, loss 1.16747, acc 0.589844
+2017-07-12T08:30:35.464419: step 898.0, loss 1.16053, acc 0.628906
+2017-07-12T08:30:35.748664: step 899.0, loss 1.06536, acc 0.636719
+2017-07-12T08:30:36.006220: step 900.0, loss 1.08941, acc 0.601562
+2017-07-12T08:30:36.262500: step 901.0, loss 1.06356, acc 0.605469
+2017-07-12T08:30:36.551238: step 902.0, loss 1.11803, acc 0.589844
+2017-07-12T08:30:36.813222: step 903.0, loss 1.27178, acc 0.550781
+2017-07-12T08:30:37.071891: step 904.0, loss 1.29451, acc 0.574219
+2017-07-12T08:30:37.306776: step 905.0, loss 1.15498, acc 0.632812
+2017-07-12T08:30:37.590880: step 906.0, loss 1.21588, acc 0.578125
+2017-07-12T08:30:37.860121: step 907.0, loss 1.19833, acc 0.609375
+2017-07-12T08:30:38.120782: step 908.0, loss 1.21453, acc 0.574219
+2017-07-12T08:30:38.373527: step 909.0, loss 1.14078, acc 0.597656
+2017-07-12T08:30:38.641859: step 910.0, loss 1.29837, acc 0.574219
+2017-07-12T08:30:38.905255: step 911.0, loss 1.09994, acc 0.648438
+2017-07-12T08:30:39.167125: step 912.0, loss 1.19983, acc 0.554688
+2017-07-12T08:30:39.433778: step 913.0, loss 1.26539, acc 0.574219
+2017-07-12T08:30:39.703018: step 914.0, loss 1.14428, acc 0.632812
+2017-07-12T08:30:39.972253: step 915.0, loss 1.29841, acc 0.546875
+2017-07-12T08:30:40.234586: step 916.0, loss 1.13701, acc 0.613281
+2017-07-12T08:30:40.501723: step 917.0, loss 1.15434, acc 0.589844
+2017-07-12T08:30:40.779991: step 918.0, loss 1.08984, acc 0.640625
+2017-07-12T08:30:41.056761: step 919.0, loss 1.35227, acc 0.566406
+2017-07-12T08:30:41.317570: step 920.0, loss 1.23983, acc 0.589844
+2017-07-12T08:30:41.584355: step 921.0, loss 1.23063, acc 0.59375
+2017-07-12T08:30:41.841509: step 922.0, loss 1.24219, acc 0.566406
+2017-07-12T08:30:42.109804: step 923.0, loss 1.28113, acc 0.542969
+2017-07-12T08:30:42.364594: step 924.0, loss 1.15294, acc 0.558594
+2017-07-12T08:30:42.611064: step 925.0, loss 1.15796, acc 0.566406
+2017-07-12T08:30:42.901673: step 926.0, loss 1.18913, acc 0.570312
+2017-07-12T08:30:43.169754: step 927.0, loss 1.10452, acc 0.652344
+2017-07-12T08:30:43.428979: step 928.0, loss 1.24737, acc 0.585938
+2017-07-12T08:30:43.692145: step 929.0, loss 1.24708, acc 0.59375
+2017-07-12T08:30:43.957787: step 930.0, loss 1.26427, acc 0.550781
+2017-07-12T08:30:44.206788: step 931.0, loss 1.1678, acc 0.613281
+2017-07-12T08:30:44.448206: step 932.0, loss 1.20167, acc 0.597656
+2017-07-12T08:30:44.694693: step 933.0, loss 1.26502, acc 0.582031
+2017-07-12T08:30:44.955238: step 934.0, loss 1.13525, acc 0.597656
+2017-07-12T08:30:45.212316: step 935.0, loss 1.26498, acc 0.550781
+2017-07-12T08:30:45.465393: step 936.0, loss 1.22813, acc 0.582031
+2017-07-12T08:30:45.740654: step 937.0, loss 1.24687, acc 0.59375
+2017-07-12T08:30:45.982168: step 938.0, loss 1.18266, acc 0.605469
+2017-07-12T08:30:46.225567: step 939.0, loss 1.21467, acc 0.59375
+2017-07-12T08:30:46.545206: step 940.0, loss 1.20424, acc 0.59375
+2017-07-12T08:30:46.792319: step 941.0, loss 1.27632, acc 0.546875
+2017-07-12T08:30:47.042416: step 942.0, loss 1.38419, acc 0.535156
+2017-07-12T08:30:47.300574: step 943.0, loss 1.1449, acc 0.652344
+2017-07-12T08:30:47.535838: step 944.0, loss 1.34136, acc 0.535156
+2017-07-12T08:30:47.817190: step 945.0, loss 1.22241, acc 0.609375
+2017-07-12T08:30:48.077654: step 946.0, loss 1.15791, acc 0.613281
+2017-07-12T08:30:48.333192: step 947.0, loss 1.1278, acc 0.644531
+2017-07-12T08:30:48.582361: step 948.0, loss 1.01835, acc 0.683594
+2017-07-12T08:30:48.857854: step 949.0, loss 1.27469, acc 0.578125
+2017-07-12T08:30:49.130785: step 950.0, loss 1.16661, acc 0.613281
+2017-07-12T08:30:49.375019: step 951.0, loss 1.02906, acc 0.640625
+2017-07-12T08:30:49.611795: step 952.0, loss 1.20881, acc 0.5625
+2017-07-12T08:30:49.859647: step 953.0, loss 1.13208, acc 0.617188
+2017-07-12T08:30:50.118331: step 954.0, loss 1.1349, acc 0.621094
+2017-07-12T08:30:50.365046: step 955.0, loss 1.13728, acc 0.601562
+2017-07-12T08:30:50.628128: step 956.0, loss 1.17168, acc 0.574219
+2017-07-12T08:30:50.872274: step 957.0, loss 1.1306, acc 0.605469
+2017-07-12T08:30:51.119210: step 958.0, loss 1.22972, acc 0.601562
+2017-07-12T08:30:51.400752: step 959.0, loss 1.09029, acc 0.617188
+2017-07-12T08:30:51.633510: step 960.0, loss 1.21207, acc 0.59375
+2017-07-12T08:30:51.881422: step 961.0, loss 1.10435, acc 0.644531
+2017-07-12T08:30:52.131032: step 962.0, loss 1.09297, acc 0.632812
+2017-07-12T08:30:52.372333: step 963.0, loss 1.2956, acc 0.582031
+2017-07-12T08:30:52.702692: step 964.0, loss 1.06968, acc 0.636719
+2017-07-12T08:30:52.932995: step 965.0, loss 1.23915, acc 0.609375
+2017-07-12T08:30:53.177114: step 966.0, loss 1.10457, acc 0.65625
+2017-07-12T08:30:53.491562: step 967.0, loss 1.09011, acc 0.652344
+2017-07-12T08:30:53.729924: step 968.0, loss 1.20663, acc 0.59375
+2017-07-12T08:30:54.002779: step 969.0, loss 1.16117, acc 0.628906
+2017-07-12T08:30:54.319386: step 970.0, loss 1.20284, acc 0.597656
+2017-07-12T08:30:54.561393: step 971.0, loss 1.16391, acc 0.617188
+2017-07-12T08:30:54.829884: step 972.0, loss 1.06908, acc 0.628906
+2017-07-12T08:30:55.083735: step 973.0, loss 1.21265, acc 0.601562
+2017-07-12T08:30:55.334742: step 974.0, loss 1.15711, acc 0.609375
+2017-07-12T08:30:55.588899: step 975.0, loss 1.28123, acc 0.550781
+2017-07-12T08:30:55.848960: step 976.0, loss 1.15019, acc 0.59375
+2017-07-12T08:30:56.112107: step 977.0, loss 1.13607, acc 0.644531
+2017-07-12T08:30:56.357559: step 978.0, loss 1.19553, acc 0.574219
+2017-07-12T08:30:56.609682: step 979.0, loss 1.24155, acc 0.59375
+2017-07-12T08:30:56.845261: step 980.0, loss 1.04081, acc 0.636719
+2017-07-12T08:30:57.088589: step 981.0, loss 1.23458, acc 0.59375
+2017-07-12T08:30:57.324966: step 982.0, loss 1.06272, acc 0.652344
+2017-07-12T08:30:57.574263: step 983.0, loss 1.03528, acc 0.65625
+2017-07-12T08:30:57.824948: step 984.0, loss 1.23643, acc 0.585938
+2017-07-12T08:30:58.102598: step 985.0, loss 1.1919, acc 0.582031
+2017-07-12T08:30:58.347850: step 986.0, loss 1.09535, acc 0.636719
+2017-07-12T08:30:58.586859: step 987.0, loss 0.958569, acc 0.640625
+2017-07-12T08:30:58.832991: step 988.0, loss 1.25223, acc 0.613281
+2017-07-12T08:30:59.119151: step 989.0, loss 1.1144, acc 0.613281
+2017-07-12T08:30:59.402226: step 990.0,I tensorflow/stream_executor/dso_loader.cc:105] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:105] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:105] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:105] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:105] successfully opened CUDA library libcurand.so locally
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:04:00.0
+Total memory: 11.17GiB
+Free memory: 10.85GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 1 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:05:00.0
+Total memory: 11.17GiB
+Free memory: 523.62MiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 2 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:83:00.0
+Total memory: 11.17GiB
+Free memory: 225.88MiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 3 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:84:00.0
+Total memory: 11.17GiB
+Free memory: 402.12MiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 4 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:89:00.0
+Total memory: 11.17GiB
+Free memory: 9.82GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 5 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:8a:00.0
+Total memory: 11.17GiB
+Free memory: 2.79GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 6 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:8d:00.0
+Total memory: 11.17GiB
+Free memory: 8.80GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 7 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:8e:00.0
+Total memory: 11.17GiB
+Free memory: 10.85GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 0 to device ordinal 2
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 0 to device ordinal 3
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 0 to device ordinal 4
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 0 to device ordinal 5
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 0 to device ordinal 6
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 0 to device ordinal 7
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 1 to device ordinal 2
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 1 to device ordinal 3
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 1 to device ordinal 4
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 1 to device ordinal 5
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 1 to device ordinal 6
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 1 to device ordinal 7
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 2 to device ordinal 0
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 2 to device ordinal 1
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 3 to device ordinal 0
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 3 to device ordinal 1
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 4 to device ordinal 0
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 4 to device ordinal 1
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 5 to device ordinal 0
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 5 to device ordinal 1
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 6 to device ordinal 0
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 6 to device ordinal 1
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 7 to device ordinal 0
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:59] cannot enable peer access from device ordinal 7 to device ordinal 1
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:126] DMA: 0 1 2 3 4 5 6 7 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 0:   Y Y N N N N N N 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 1:   Y Y N N N N N N 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 2:   N N Y Y Y Y Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 3:   N N Y Y Y Y Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 4:   N N Y Y Y Y Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 5:   N N Y Y Y Y Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 6:   N N Y Y Y Y Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 7:   N N Y Y Y Y Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:04:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:1) -> (device: 1, name: Tesla K80, pci bus id: 0000:05:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:2) -> (device: 2, name: Tesla K80, pci bus id: 0000:83:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:3) -> (device: 3, name: Tesla K80, pci bus id: 0000:84:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:4) -> (device: 4, name: Tesla K80, pci bus id: 0000:89:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:5) -> (device: 5, name: Tesla K80, pci bus id: 0000:8a:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:6) -> (device: 6, name: Tesla K80, pci bus id: 0000:8d:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:755] Creating TensorFlow device (/gpu:7) -> (device: 7, name: Tesla K80, pci bus id: 0000:8e:00.0)
